@@ -21,6 +21,16 @@
   section {
     padding: 3rem 1rem;
   }
+
+  .services-container {
+    grid-template-columns: 1fr;
+  }
+
+  #site-footer {
+    grid-template-columns: 1fr;
+
+    text-align: center;
+  }
 }
 
 /* Mobile pequeno */
