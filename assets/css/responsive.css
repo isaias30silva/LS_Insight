@@ -1,0 +1,29 @@
+/* Tablet */
+
+@media (max-width: 992px) {
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  #menu-toggle {
+    display: block;
+  }
+
+  #main-menu {
+    display: none;
+  }
+
+  .hero-buttons {
+    flex-direction: column;
+  }
+
+  section {
+    padding: 3rem 1rem;
+  }
+}
+
+/* Mobile pequeno */
+
+@media (max-width: 480px) {
+}

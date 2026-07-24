@@ -1,0 +1,48 @@
+.services-container,
+.business-units-container {
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+  gap: 2rem;
+
+  margin-top: 2rem;
+}
+
+.services-container article,
+.business-units-container article {
+  background: white;
+
+  padding: 2rem;
+
+  border-radius: 16px;
+
+  box-shadow: var(--shadow-sm);
+
+  transition: 0.3s;
+}
+
+.services-container article:hover,
+.business-units-container article:hover {
+  transform: translateY(-5px);
+
+  box-shadow: var(--shadow-md);
+}
+
+#about {
+  text-align: center;
+
+  max-width: 900px;
+
+  margin: auto;
+}
+
+#about h2 {
+  color: var(--color-primary);
+}
+
+#about p {
+  margin: 1.5rem auto;
+
+  font-size: 1.1rem;
+}

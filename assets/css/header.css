@@ -1,0 +1,59 @@
+#site-header {
+  background: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--shadow-sm);
+}
+
+#site-header nav {
+  width: min(100%, 1200px);
+  margin: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 1rem 2rem;
+}
+
+#main-menu {
+  display: flex;
+  gap: 2rem;
+}
+
+#main-menu a {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+#main-menu a:hover {
+  color: var(--color-secondary);
+}
+
+.language-selector {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.language-selector button {
+  width: 42px;
+  height: 42px;
+
+  border-radius: 50%;
+
+  border: 2px solid var(--color-primary);
+
+  background: white;
+
+  color: var(--color-primary);
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.language-selector button:hover {
+  background: var(--color-primary);
+  color: white;
+}
