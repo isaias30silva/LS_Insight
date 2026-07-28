@@ -31,6 +31,24 @@
 
     text-align: center;
   }
+
+  #cookie-banner {
+    width: calc(100% - 2rem);
+
+    flex-direction: column;
+
+    text-align: center;
+  }
+
+  .cookie-actions {
+    width: 100%;
+
+    flex-direction: column;
+  }
+
+  .cookie-actions button {
+    width: 100%;
+  }
 }
 
 /* Mobile pequeno */
