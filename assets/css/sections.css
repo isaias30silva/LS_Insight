@@ -29,22 +29,57 @@
   box-shadow: var(--shadow-md);
 }
 
+.services-container article p,
+.business-units-container article p,
+.differentials-grid article p {
+  margin-top: 1rem;
+
+  font-size: 0.95rem;
+
+  line-height: 1.6;
+}
+
+.services-container article h3,
+.business-units-container article h3,
+.differentials-grid article h3 {
+  margin-top: 0.5rem;
+
+  color: var(--color-primary);
+}
+
 #about {
   text-align: center;
 
-  max-width: 900px;
+  margin: 3rem auto 0;
 
-  margin: auto;
+  position: relative;
+
+  background-image:
+    linear-gradient(rgba(14, 79, 107, 0.94), rgba(31, 163, 122, 0.88)),
+    url("../images/about/office-tech.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  color: white;
+
+  max-width: 1200px;
+
+  box-shadow: var(--shadow-md);
 }
 
 #about h2 {
-  color: var(--color-primary);
+  color: var(--color-background);
 }
 
 #about p {
   margin: 1.5rem auto;
+  color: rgba(255, 255, 255, 0.95);
 
   font-size: 1.1rem;
 }
 
-
+.about-overlay {
+  padding: 4rem 3rem;
+}

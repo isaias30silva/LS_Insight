@@ -13,7 +13,7 @@ main {
 }
 
 section {
-  padding: var(--space-xl) var(--space-md);
+  padding: var(--space-lg) var(--space-md);
 }
 
 h1,
@@ -29,6 +29,29 @@ h1 {
 h2 {
   font-size: clamp(1.8rem, 3vw, 2.5rem);
   margin-bottom: 1rem;
+}
+
+.highlight-primary,
+.highlight-secondary {
+  font-size: 1.25em;
+
+  font-weight: 800;
+
+  letter-spacing: 0.3px;
+
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+
+  padding-bottom: 2px;
+}
+
+.highlight-primary {
+  color: #ffffff;
+}
+
+.highlight-secondary {
+  color: #d6f5ec;
 }
 
 #cookie-banner {
