@@ -81,3 +81,39 @@
   width: auto;
   display: block;
 }
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  #menu-toggle {
+    display: block;
+  }
+
+  #main-menu {
+    display: none;
+
+    position: absolute;
+
+    top: 100%;
+
+    left: 0;
+
+    width: 100%;
+
+    background: white;
+
+    flex-direction: column;
+
+    padding: 1rem;
+
+    box-shadow: var(--shadow-md);
+  }
+
+  #main-menu.active {
+    display: flex;
+  }
+
+  #site-header nav {
+    position: relative;
+  }
+}
