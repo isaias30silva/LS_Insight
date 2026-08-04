@@ -68,6 +68,19 @@
   .benefits-grid {
     grid-template-columns: 1fr;
   }
+
+  .services-grid,
+  .benefits-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .service-card img {
+    height: 200px;
+  }
+
+  .service-content {
+    padding: 1.5rem;
+  }
 }
 
 /* Mobile pequeno */
