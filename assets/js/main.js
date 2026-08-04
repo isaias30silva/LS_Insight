@@ -32,3 +32,49 @@ if (acceptCookies && rejectCookies && cookieBanner) {
     cookieBanner.style.display = "none";
   });
 }
+
+//função para rolar a página
+const elements = document.querySelectorAll(".fade-up");
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("show");
+    }
+  });
+});
+
+elements.forEach((element) => {
+  observer.observe(element);
+});
+
+//função de escrita de palavras
+document.addEventListener("DOMContentLoaded", () => {
+  const typingElements = document.querySelectorAll(".typing-word");
+
+  typingElements.forEach((element) => {
+    const text = element.dataset.text;
+
+    let index = 0;
+
+    function typeWord() {
+      element.textContent = "";
+
+      index = 0;
+
+      const interval = setInterval(() => {
+        element.textContent += text[index];
+
+        index++;
+
+        if (index >= text.length) {
+          clearInterval(interval);
+
+          setTimeout(typeWord, 3000);
+        }
+      }, 120);
+    }
+
+    typeWord();
+  });
+});

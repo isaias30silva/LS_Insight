@@ -44,3 +44,27 @@
   border: 2px solid white;
   color: white;
 }
+
+.typing-word {
+  color: var(--color-text);
+
+  font-weight: 800;
+
+  border-right: 3px solid currentColor;
+
+  padding-right: 4px;
+
+  animation: blinkCursor 0.8s infinite;
+}
+
+@keyframes blinkCursor {
+  0%,
+  50% {
+    border-color: currentColor;
+  }
+
+  51%,
+  100% {
+    border-color: transparent;
+  }
+}

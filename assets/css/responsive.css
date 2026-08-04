@@ -49,6 +49,25 @@
   .cookie-actions button {
     width: 100%;
   }
+
+  .courses-grid,
+  .paths-grid,
+  .benefits-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #academy-hero {
+    min-height: 60vh;
+  }
+
+  .academy-hero-buttons {
+    flex-direction: column;
+  }
+
+  .paths-grid,
+  .benefits-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Mobile pequeno */
