@@ -22,13 +22,23 @@ menuLinks.forEach((link) => {
   });
 });
 
+//função para verificar se já existe escolha salva da política de privacidade
+const cookieConsent = localStorage.getItem("cookieConsent");
+
+if (cookieConsent && cookieBanner) {
+  cookieBanner.style.display = "none";
+}
+
 //função para fechar banner de cookies
 if (acceptCookies && rejectCookies && cookieBanner) {
   acceptCookies.addEventListener("click", () => {
+    localStorage.setItem("cookieConsent", "accepted");
+
     cookieBanner.style.display = "none";
   });
-
   rejectCookies.addEventListener("click", () => {
+    localStorage.setItem("cookieConsent", "rejected");
+
     cookieBanner.style.display = "none";
   });
 }
