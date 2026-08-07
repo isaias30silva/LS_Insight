@@ -215,6 +215,23 @@ h2 {
   background: var(--color-secondary-dark);
 }
 
+.input-error {
+  border: 2px solid #dc3545 !important;
+  outline: none;
+}
+
+.field-error {
+  display: block;
+
+  margin-top: 0.4rem;
+
+  color: #dc3545;
+
+  font-size: 0.85rem;
+
+  font-weight: 600;
+}
+
 #contact {
   text-align: center;
 }
