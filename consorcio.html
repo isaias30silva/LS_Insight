@@ -241,73 +241,131 @@
             </a>
           </section>
           <section id="simulation">
-            <h2>Solicite uma Simulação</h2>
+
+            <h2>
+              Solicite uma Simulação
+            </h2>
+
             <form id="simulation-form">
+
               <div>
-                <label for="name">
+                <label for="simulation-name">
                   Nome
                 </label>
-                <input
-                  type="text"
-                  id="name"
-                  required>
+
+              <input
+              type="text"
+              id="simulation-name"
+              name="name"
+              autocomplete="name"
+              required
+              />
               </div>
+
               <div>
-                <label for="email">
+                <label for="simulation-email">
                   E-mail
                 </label>
-                <input
-                  type="email"
-                  id="email"
-                  required>
+
+              <input
+                type="email"
+                id="simulation-email"
+                name="email"
+                autocomplete="email"
+                required
+              />
               </div>
+
               <div>
-                <label for="phone">
+                <label for="simulation-phone">
                   WhatsApp
                 </label>
-                <input
-                  type="tel"
-                  id="phone">
+
+              <input
+                type="tel"
+                id="simulation-phone"
+                name="phone"
+                autocomplete="tel"
+              />
               </div>
+
               <div>
-                <label for="consortium">
+                <label for="simulation-consortium">
                   Modalidade
                 </label>
-                <select id="consortium">
-                  <option>
-                    Consórcio Imobiliário
-                  </option>
-                  <option>
-                    Consórcio de Veículos
-                  </option>
-                  <option>
-                    Planejamento Patrimonial
-                  </option>
-                </select>
+
+              <select
+                id="simulation-consortium"
+                name="consortium"
+                required
+              >
+              <option value="">
+                Selecione uma modalidade
+              </option>
+
+              <option value="imovel">
+                Consórcio Imobiliário
+              </option>
+
+              <option value="veiculo">
+                Consórcio de Veículos
+              </option>
+
+              <option value="patrimonial">
+                Planejamento Patrimonial
+              </option>
+              </select>
               </div>
-              <div>
-                <label for="credit">
-                  Valor aproximado da carta de crédito
-                </label>
-                <select id="credit">
-                  <option>Até R$100.000</option>
-                  <option>R$100.000 a R$300.000</option>
-                  <option>R$300.000 a R$500.000</option>
-                  <option>Acima de R$500.000</option>
-                </select>
-              </div>
-              <div>
-                <label for="message">
-                  Conte-nos seu objetivo
-                </label>
-                <textarea
-                  id="message"
-                  rows="5">
-                </textarea>
-              </div>
-              <button type="submit">
-                Solicitar Simulação
-              </button>
+
+            <div>
+              <label for="simulation-credit">
+                Valor aproximado da carta de crédito
+              </label>
+
+              <select
+                id="simulation-credit"
+                name="credit"
+                required
+              >
+              <option value="">
+                Selecione uma faixa
+              </option>
+
+              <option value="100000">
+                Até R$ 100.000
+              </option>
+
+              <option value="100000-300000">
+                R$ 100.000 a R$ 300.000
+              </option>
+
+              <option value="300000-500000">
+                R$ 300.000 a R$ 500.000
+              </option>
+
+              <option value="500000+">
+                Acima de R$ 500.000
+              </option>
+              </select>
+            </div>
+
+            <div>
+              <label for="simulation-message">
+                Conte-nos seu objetivo
+              </label>
+
+              <textarea
+                id="simulation-message"
+                name="message"
+                rows="5"
+                required
+              ></textarea>
+            </div>
+
+            <button type="submit">
+              Solicitar Simulação
+            </button>
+
             </form>
           </section>
           <section id="contact">

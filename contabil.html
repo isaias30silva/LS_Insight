@@ -268,38 +268,65 @@
       <section id="accounting-form">
         <h2>Solicite uma Consultoria</h2>
 
-        <form>
+        <form id="accounting-form-element">
           <div>
-            <label>Nome</label>
-            <input type="text" />
+            <label for="accounting-name"> Nome </label>
+
+            <input
+              type="text"
+              id="accounting-name"
+              name="name"
+              autocomplete="name"
+              required
+            />
           </div>
 
           <div>
-            <label>E-mail</label>
-            <input type="email" />
+            <label for="accounting-email"> E-mail </label>
+
+            <input
+              type="email"
+              id="accounting-email"
+              name="email"
+              autocomplete="email"
+              required
+            />
           </div>
 
           <div>
-            <label>WhatsApp</label>
-            <input type="tel" />
+            <label for="accounting-phone"> WhatsApp </label>
+
+            <input
+              type="tel"
+              id="accounting-phone"
+              name="phone"
+              autocomplete="tel"
+            />
           </div>
 
           <div>
-            <label>Serviço de Interesse</label>
+            <label for="accounting-service"> Serviço de Interesse </label>
 
-            <select>
-              <option>DIRPF</option>
+            <select id="accounting-service" name="service" required>
+              <option value="">Selecione um serviço</option>
 
-              <option>MEI</option>
+              <option value="dirpf">DIRPF</option>
 
-              <option>Consultoria Contábil</option>
+              <option value="mei">MEI</option>
+
+              <option value="consultoria">Consultoria Contábil</option>
             </select>
           </div>
 
           <div>
-            <label>Mensagem</label>
+            <label for="accounting-message"> Mensagem </label>
 
-            <textarea rows="5"></textarea>
+            <textarea
+              id="accounting-message"
+              name="message"
+              rows="5"
+              required
+            ></textarea>
           </div>
 
           <button type="submit">Solicitar Atendimento</button>
