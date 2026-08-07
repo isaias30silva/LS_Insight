@@ -233,6 +233,45 @@ h2 {
   font-weight: 600;
 }
 
+.footer-location {
+  min-width: 0;
+}
+
+.footer-location p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.footer-map {
+  width: 100%;
+  max-width: 320px;
+  height: 180px;
+
+  overflow: hidden;
+
+  border-radius: var(--radius-md);
+
+  box-shadow: var(--shadow-sm);
+
+  transition: 0.3s;
+}
+
+.footer-map:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+}
+
+.footer-map iframe {
+  width: 100%;
+  height: 100%;
+
+  border: 0;
+
+  display: block;
+
+  pointer-events: none;
+}
+
 .whatsapp-float {
   position: fixed;
 
