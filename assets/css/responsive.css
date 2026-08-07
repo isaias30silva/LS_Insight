@@ -128,9 +128,52 @@
   section {
     padding: 2.5rem 1rem;
   }
+
+  #privacy-hero {
+    min-height: 40vh;
+  }
+
+  .privacy-hero-content {
+    padding: 2.5rem 1rem;
+  }
+
+  .privacy-icon {
+    font-size: 3rem;
+  }
+
+  #privacy-content {
+    padding: 3rem 1rem;
+  }
+
+  .privacy-section {
+    padding: 1.5rem;
+
+    margin-bottom: 1rem;
+  }
+
+  .privacy-section h2 {
+    font-size: 1.3rem;
+  }
+
+  .privacy-intro {
+    font-size: 1rem;
+  }
 }
 
 /* Mobile pequeno */
 
 @media (max-width: 480px) {
+  #privacy-hero {
+    min-height: 35vh;
+  }
+
+  .privacy-hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .privacy-section {
+    padding: 1.25rem;
+
+    border-left-width: 3px;
+  }
 }

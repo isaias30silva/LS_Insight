@@ -1,0 +1,131 @@
+#privacy-hero {
+  min-height: 45vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  background: linear-gradient(rgba(14, 79, 107, 0.96), rgba(8, 56, 76, 0.96));
+
+  color: white;
+}
+
+.privacy-hero-content {
+  max-width: 800px;
+
+  padding: 3rem 1.5rem;
+}
+
+.privacy-icon {
+  display: block;
+
+  font-size: 3.5rem;
+
+  margin-bottom: 1rem;
+}
+
+.privacy-hero-content h1 {
+  margin-bottom: 1rem;
+}
+
+.privacy-hero-content p {
+  margin: auto;
+
+  font-size: 1.15rem;
+
+  color: rgba(255, 255, 255, 0.9);
+}
+
+#privacy-content {
+  background: var(--color-background);
+
+  padding: 4rem 1.5rem;
+}
+
+.privacy-container {
+  width: min(100%, 900px);
+
+  margin: auto;
+}
+
+.privacy-intro {
+  font-size: 1.1rem;
+
+  line-height: 1.8;
+
+  margin-bottom: 3rem;
+
+  color: var(--color-text);
+}
+
+.privacy-section {
+  background: var(--color-surface);
+
+  padding: 2rem;
+
+  margin-bottom: 1.5rem;
+
+  border-radius: var(--radius-md);
+
+  box-shadow: var(--shadow-sm);
+
+  border-left: 4px solid var(--color-primary);
+}
+
+.privacy-section h2 {
+  color: var(--color-primary);
+
+  font-size: 1.5rem;
+
+  margin-bottom: 1rem;
+}
+
+.privacy-section p {
+  max-width: none;
+
+  margin-bottom: 1rem;
+
+  line-height: 1.8;
+}
+
+.privacy-section p:last-child {
+  margin-bottom: 0;
+}
+
+.privacy-section ul {
+  margin: 1rem 0 0;
+
+  padding-left: 1.5rem;
+}
+
+.privacy-section li {
+  margin-bottom: 0.6rem;
+
+  line-height: 1.6;
+}
+
+.privacy-section a {
+  color: var(--color-primary);
+
+  font-weight: 600;
+}
+
+.privacy-section a:hover {
+  color: var(--color-secondary);
+}
+
+.privacy-contact {
+  border-left-color: var(--color-secondary);
+}
+
+.privacy-update {
+  text-align: center;
+
+  margin-top: 2rem;
+
+  font-size: 0.9rem;
+
+  color: #666;
+}
