@@ -19,14 +19,73 @@
   "footer_consortium": "Consórcio",
   "footer_privacy": "Política de Privacidade",
 
-  "footer_address": "Rua Professor Clemente Ferreira, 1213",
-  "footer_city": "Bangu - Rio de Janeiro - RJ",
-  "footer_zip": "CEP: 21810-141",
+  "hero_title_start": "Inteligência de Software para",
+  "hero_title_end": "negócios",
 
-  "footer_rights": "© 2026 LS Insight. Todos os direitos reservados.",
-
-  "hero_title": "Inteligência de Software para transformar negócios",
   "hero_description": "Soluções digitais sob medida para empresas. Automação e estratégia.",
+
   "hero_cta": "Peça um Diagnóstico",
-  "hero_secondary_cta": "Conheça Nossas Soluções"
+  "hero_secondary_cta": "Conheça Nossas Soluções",
+
+  "about_title": "Sobre a LS Insight",
+  "about_paragraph_1_before": "A",
+  "about_intro": "A",
+  "about_description_1": "atua na transformação digital de empresas por meio de consultoria tecnológica, desenvolvimento de sistemas e automação de processos.",
+  "about_paragraph_2": "Nosso objetivo é ajudar organizações a reduzirem custos, aumentarem a produtividade e tomarem decisões mais inteligentes através da tecnologia.",
+  "about_paragraph_3_before": "Desenvolvemos soluções sob medida, alinhadas às necessidades reais de cada negócio, sempre com foco em",
+  "about_efficiency": "eficiência",
+  "about_growth": "crescimento",
+  "about_and": "e",
+  "about_results": "resultados",
+
+  "services_title": "Nossas Soluções",
+
+  "service_development_title": "Desenvolvimento de Sistemas",
+  "service_development_description": "Sistemas web personalizados para otimizar processos e aumentar a eficiência operacional.",
+
+  "service_automation_title": "Automação de Processos",
+  "service_automation_description": "Elimine tarefas repetitivas e ganhe produtividade com automações inteligentes.",
+
+  "service_consulting_title": "Consultoria Tecnológica",
+  "service_consulting_description": "Diagnóstico e planejamento estratégico para acelerar a transformação digital.",
+
+  "service_business_title": "Inteligência de Negócios",
+  "service_business_description": "Dados e indicadores para apoiar decisões mais rápidas e assertivas.",
+
+  "business_units_title": "Áreas de Atuação",
+
+  "unit_main": "Consultoria tecnológica, desenvolvimento de sistemas, automação de processos e soluções digitais sob medida.",
+  "unit_academy": "Cursos, treinamentos e capacitação profissional voltados para tecnologia, produtividade e inovação.",
+  "unit_accounting": "Serviços para MEI, declaração de imposto de renda e suporte contábil para pessoas físicas e empresas.",
+  "unit_consortium": "Planejamento patrimonial e consórcios imobiliários para aquisição de bens sem juros.",
+
+  "differentials_title": "Diferenciais",
+
+  "differential_custom_title": "✓ Soluções Personalizadas",
+  "differential_custom_description": "Cada projeto é desenvolvido conforme a realidade do cliente.",
+
+  "differential_automation_title": "✓ Automação Inteligente",
+  "differential_automation_description": "Redução de tarefas manuais e aumento da produtividade.",
+
+  "differential_service_title": "✓ Atendimento Consultivo",
+  "differential_service_description": "Orientação estratégica para apoiar o crescimento do negócio.",
+
+  "differential_results_title": "✓ Foco em Resultados",
+  "differential_results_description": "Tecnologia aplicada com inteligência de mercado para gerar valor e eficiência.",
+
+  "cta_title": "Transforme sua empresa com tecnologia inteligente",
+  "cta_description": "Descubra oportunidades de automação, otimização de processos e desenvolvimento de soluções personalizadas para acelerar o crescimento do seu negócio.",
+  "cta_button": "Falar com um especialista agora",
+
+  "diagnostic_title": "Solicite um Diagnóstico",
+  "label_name": "Nome",
+  "label_company": "Empresa",
+  "label_email": "E-mail",
+  "label_phone": "WhatsApp",
+  "label_message": "Descreva sua necessidade",
+  "submit_diagnostic": "Solicitar Diagnóstico",
+
+  "contact_title": "Contato",
+  "contact_whatsapp": "WhatsApp:",
+  "contact_instagram": "Instagram:"
 }

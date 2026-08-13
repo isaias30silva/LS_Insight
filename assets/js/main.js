@@ -59,21 +59,29 @@ elements.forEach((element) => {
   observer.observe(element);
 });
 
-//função de escrita de palavras
+// função de escrita de palavras
 document.addEventListener("DOMContentLoaded", () => {
   const typingElements = document.querySelectorAll(".typing-word");
 
   typingElements.forEach((element) => {
-    const text = element.dataset.text;
-
     let index = 0;
+    let interval;
+    let timeout;
 
     function typeWord() {
-      element.textContent = "";
+      clearInterval(interval);
+      clearTimeout(timeout);
 
+      const text = element.dataset.text || "";
+
+      element.textContent = "";
       index = 0;
 
-      const interval = setInterval(() => {
+      if (!text) {
+        return;
+      }
+
+      interval = setInterval(() => {
         element.textContent += text[index];
 
         index++;
@@ -81,10 +89,12 @@ document.addEventListener("DOMContentLoaded", () => {
         if (index >= text.length) {
           clearInterval(interval);
 
-          setTimeout(typeWord, 3000);
+          timeout = setTimeout(typeWord, 3000);
         }
       }, 120);
     }
+
+    element.addEventListener("languageChanged", typeWord);
 
     typeWord();
   });

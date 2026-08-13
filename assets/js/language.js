@@ -1,3 +1,14 @@
+function updateTypingWords(language) {
+  document.querySelectorAll(".typing-word").forEach((element) => {
+    const text =
+      language === "en-us" ? element.dataset.textEn : element.dataset.textPt;
+
+    element.dataset.text = text;
+
+    element.dispatchEvent(new CustomEvent("languageChanged"));
+  });
+}
+
 async function loadLanguage(language) {
   try {
     const response = await fetch(`./assets/i18n/${language}.json`);
@@ -19,6 +30,8 @@ async function loadLanguage(language) {
     document.documentElement.lang = language === "pt-br" ? "pt-BR" : "en-US";
 
     localStorage.setItem("language", language);
+
+    updateTypingWords(language);
   } catch (error) {
     console.error("Erro ao carregar idioma:", error);
   }

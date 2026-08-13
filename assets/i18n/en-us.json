@@ -25,8 +25,72 @@
 
   "footer_rights": "© 2026 LS Insight. All rights reserved.",
 
-  "hero_title": "Software Intelligence to transform businesses",
+  "hero_title_start": "Software Intelligence to",
+  "hero_title_end": "businesses",
+
   "hero_description": "Custom digital solutions for companies. Automation and strategy.",
+
   "hero_cta": "Request a Diagnosis",
-  "hero_secondary_cta": "Discover Our Solutions"
+  "hero_secondary_cta": "Discover Our Solutions",
+
+  "about_title": "About LS Insight",
+  "about_intro": " ",
+  "about_description_1": "works in the digital transformation of companies through technology consulting, system development, and process automation.",
+  "about_paragraph_2": "Our goal is to help organizations reduce costs, increase productivity, and make smarter decisions through technology.",
+  "about_paragraph_3_before": "We develop customized solutions aligned with the real needs of each business, always focusing on",
+  "about_efficiency": "efficiency",
+  "about_growth": "growth",
+  "about_and": "and",
+  "about_results": "results",
+
+  "services_title": "Our Solutions",
+
+  "service_development_title": "System Development",
+  "service_development_description": "Customized web systems to optimize processes and increase operational efficiency.",
+
+  "service_automation_title": "Process Automation",
+  "service_automation_description": "Eliminate repetitive tasks and increase productivity with intelligent automation.",
+
+  "service_consulting_title": "Technology Consulting",
+  "service_consulting_description": "Diagnosis and strategic planning to accelerate digital transformation.",
+
+  "service_business_title": "Business Intelligence",
+  "service_business_description": "Data and indicators to support faster and more accurate decisions.",
+
+  "business_units_title": "Areas of Expertise",
+
+  "unit_main": "Technology consulting, system development, process automation, and customized digital solutions.",
+  "unit_academy": "Courses, training, and professional development focused on technology, productivity, and innovation.",
+  "unit_accounting": "Services for MEIs, income tax returns, and accounting support for individuals and companies.",
+  "unit_consortium": "Asset planning and real estate consortium solutions for acquiring assets without interest.",
+
+  "differentials_title": "Our Differentials",
+
+  "differential_custom_title": "✓ Customized Solutions",
+  "differential_custom_description": "Each project is developed according to the client's reality.",
+
+  "differential_automation_title": "✓ Intelligent Automation",
+  "differential_automation_description": "Reduction of manual tasks and increased productivity.",
+
+  "differential_service_title": "✓ Consulting Support",
+  "differential_service_description": "Strategic guidance to support business growth.",
+
+  "differential_results_title": "✓ Results-Oriented",
+  "differential_results_description": "Technology applied with market intelligence to generate value and efficiency.",
+
+  "cta_title": "Transform your business with intelligent technology",
+  "cta_description": "Discover opportunities for automation, process optimization, and customized solutions to accelerate your business growth.",
+  "cta_button": "Talk to a specialist now",
+
+  "diagnostic_title": "Request a Diagnosis",
+  "label_name": "Name",
+  "label_company": "Company",
+  "label_email": "Email",
+  "label_phone": "WhatsApp",
+  "label_message": "Describe your needs",
+  "submit_diagnostic": "Request Diagnosis",
+
+  "contact_title": "Contact",
+  "contact_whatsapp": "WhatsApp:",
+  "contact_instagram": "Instagram:"
 }
