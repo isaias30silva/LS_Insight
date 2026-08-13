@@ -207,5 +207,67 @@
 
   "academy_contact_title": "Solicite Informações",
   "academy_course_label": "Curso de Interesse",
-  "academy_contact_submit": "Solicitar Informações"
+  "academy_contact_submit": "Solicitar Informações",
+
+  "accounting_hero_title_start": "Consultoria Contábil para",
+  "accounting_hero_title_end": "sua gestão financeira",
+  "accounting_hero_description": "Soluções contábeis, fiscais e tributárias para pessoas físicas e empresas.",
+  "accounting_hero_cta": "Conheça os Serviços",
+  "accounting_hero_secondary_cta": "Fale Conosco",
+
+  "accounting_about_title": "Sobre a LS Insight Consultoria Contábil",
+  "accounting_about_intro": "A",
+  "accounting_about_description_1": "oferece suporte especializado para pessoas físicas, MEIs e pequenas empresas.",
+  "accounting_about_paragraph_2_before": "Atuamos com foco em",
+  "accounting_about_focus": "organização financeira, conformidade fiscal e planejamento tributário",
+  "accounting_about_paragraph_3_before": "Nosso objetivo é simplificar processos, reduzir riscos e permitir que você foque no",
+  "accounting_about_growth": "crescimento do seu negócio.",
+
+  "accounting_services_title": "Nossos Serviços",
+
+  "accounting_service_dirpf_description": "Elaboração e entrega da Declaração do Imposto de Renda Pessoa Física.",
+  "accounting_service_dirpf_detail_1": "📄 Declaração Completa",
+  "accounting_service_dirpf_detail_2": "📊 Análise Patrimonial",
+  "accounting_service_dirpf_detail_3": "⚖️ Regularização Fiscal",
+
+  "accounting_service_mei_description": "Abertura, regularização e suporte completo ao Microempreendedor Individual.",
+  "accounting_service_mei_detail_1": "🏢 Abertura",
+  "accounting_service_mei_detail_2": "📑 DASN-SIMEI",
+  "accounting_service_mei_detail_3": "💰 Emissão de Guias",
+
+  "accounting_service_accounting_title": "Contabilidade",
+  "accounting_service_accounting_description": "Gestão contábil e suporte estratégico para empresas.",
+  "accounting_service_accounting_detail_1": "📈 Planejamento",
+  "accounting_service_accounting_detail_2": "📊 Relatórios",
+  "accounting_service_accounting_detail_3": "⚙️ Consultoria",
+
+  "accounting_service_learn_more": "Saiba Mais",
+
+  "accounting_benefits_title": "Por que escolher nossa consultoria?",
+
+  "accounting_benefit_security_title": "Segurança",
+  "accounting_benefit_security_description": "Processos realizados com responsabilidade e conformidade fiscal.",
+
+  "accounting_benefit_service_title": "Atendimento Personalizado",
+  "accounting_benefit_service_description": "Suporte próximo e orientado às necessidades do cliente.",
+
+  "accounting_benefit_planning_title": "Planejamento",
+  "accounting_benefit_planning_description": "Organização financeira para tomada de decisões.",
+
+  "accounting_benefit_agility_title": "Agilidade",
+  "accounting_benefit_agility_description": "Resolução rápida das demandas contábeis.",
+
+  "accounting_cta_title": "Organize sua vida financeira e tributária",
+  "accounting_cta_description": "Conte com orientação especializada para declaração de imposto de renda, regularização de MEI e suporte contábil para tomada de decisões.",
+  "accounting_cta_button": "Solicitar Atendimento",
+
+  "accounting_form_title": "Solicite uma Consultoria",
+  "accounting_label_name": "Nome",
+  "accounting_label_email": "E-mail",
+  "accounting_label_phone": "WhatsApp",
+  "accounting_label_service": "Serviço de Interesse",
+  "accounting_select_service": "Selecione um serviço",
+  "accounting_option_consulting": "Consultoria Contábil",
+  "accounting_label_message": "Mensagem",
+  "accounting_submit": "Solicitar Atendimento"
 }

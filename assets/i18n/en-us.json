@@ -214,5 +214,67 @@
 
   "academy_contact_title": "Request Information",
   "academy_course_label": "Course of Interest",
-  "academy_contact_submit": "Request Information"
+  "academy_contact_submit": "Request Information",
+
+  "accounting_hero_title_start": "Accounting Consulting to",
+  "accounting_hero_title_end": "manage your finances",
+  "accounting_hero_description": "Accounting, tax, and fiscal solutions for individuals and businesses.",
+  "accounting_hero_cta": "Explore Our Services",
+  "accounting_hero_secondary_cta": "Contact Us",
+
+  "accounting_about_title": "About LS Insight Accounting Consulting",
+  "accounting_about_intro": " ",
+  "accounting_about_description_1": "provides specialized support for individuals, MEIs, and small businesses.",
+  "accounting_about_paragraph_2_before": "We focus on",
+  "accounting_about_focus": "financial organization, tax compliance, and tax planning",
+  "accounting_about_paragraph_3_before": "Our goal is to simplify processes, reduce risks, and allow you to focus on",
+  "accounting_about_growth": "growing your business.",
+
+  "accounting_services_title": "Our Services",
+
+  "accounting_service_dirpf_description": "Preparation and filing of Individual Income Tax Returns.",
+  "accounting_service_dirpf_detail_1": "📄 Complete Tax Return",
+  "accounting_service_dirpf_detail_2": "📊 Asset Analysis",
+  "accounting_service_dirpf_detail_3": "⚖️ Tax Regularization",
+
+  "accounting_service_mei_description": "Registration, regularization, and complete support for Individual Microentrepreneurs.",
+  "accounting_service_mei_detail_1": "🏢 Registration",
+  "accounting_service_mei_detail_2": "📑 DASN-SIMEI",
+  "accounting_service_mei_detail_3": "💰 Tax Guide Issuance",
+
+  "accounting_service_accounting_title": "Accounting",
+  "accounting_service_accounting_description": "Accounting management and strategic support for businesses.",
+  "accounting_service_accounting_detail_1": "📈 Planning",
+  "accounting_service_accounting_detail_2": "📊 Reports",
+  "accounting_service_accounting_detail_3": "⚙️ Consulting",
+
+  "accounting_service_learn_more": "Learn More",
+
+  "accounting_benefits_title": "Why Choose Our Consulting Services?",
+
+  "accounting_benefit_security_title": "Security",
+  "accounting_benefit_security_description": "Processes carried out with responsibility and tax compliance.",
+
+  "accounting_benefit_service_title": "Personalized Service",
+  "accounting_benefit_service_description": "Close support tailored to the client's needs.",
+
+  "accounting_benefit_planning_title": "Planning",
+  "accounting_benefit_planning_description": "Financial organization to support decision-making.",
+
+  "accounting_benefit_agility_title": "Agility",
+  "accounting_benefit_agility_description": "Fast resolution of accounting-related demands.",
+
+  "accounting_cta_title": "Organize Your Financial and Tax Affairs",
+  "accounting_cta_description": "Count on specialized guidance for income tax returns, MEI regularization, and accounting support for decision-making.",
+  "accounting_cta_button": "Request Assistance",
+
+  "accounting_form_title": "Request a Consultation",
+  "accounting_label_name": "Name",
+  "accounting_label_email": "Email",
+  "accounting_label_phone": "WhatsApp",
+  "accounting_label_service": "Service of Interest",
+  "accounting_select_service": "Select a service",
+  "accounting_option_consulting": "Accounting Consulting",
+  "accounting_label_message": "Message",
+  "accounting_submit": "Request Assistance"
 }
