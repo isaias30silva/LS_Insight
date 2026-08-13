@@ -2,13 +2,31 @@
   "menu_home": "LS Insight",
   "menu_academy": "Academy",
   "menu_accounting": "Accounting Consulting",
-  "menu_consortium": "Real Estate Consortium",
+  "menu_consortium": "Consortium",
 
-  "hero_title": "Software Intelligence to Transform Businesses",
+  "cookie_message": "We use cookies to improve your browsing experience.",
+  "accept_cookies": "Accept",
+  "reject_cookies": "Decline",
+  "privacy_policy": "Privacy Policy",
 
+  "footer_description": "Custom digital solutions for businesses.",
+  "footer_navigation": "Navigation",
+  "footer_location": "Location",
+
+  "footer_home": "Home",
+  "footer_academy": "Academy",
+  "footer_accounting": "Accounting Consulting",
+  "footer_consortium": "Consortium",
+  "footer_privacy": "Privacy Policy",
+
+  "footer_address": "1213 Professor Clemente Ferreira Street",
+  "footer_city": "Bangu - Rio de Janeiro - RJ",
+  "footer_zip": "ZIP Code: 21810-141",
+
+  "footer_rights": "© 2026 LS Insight. All rights reserved.",
+
+  "hero_title": "Software Intelligence to transform businesses",
   "hero_description": "Custom digital solutions for companies. Automation and strategy.",
-
   "hero_cta": "Request a Diagnosis",
-
   "hero_secondary_cta": "Discover Our Solutions"
 }

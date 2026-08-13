@@ -2,6 +2,10 @@ async function loadLanguage(language) {
   try {
     const response = await fetch(`./assets/i18n/${language}.json`);
 
+    if (!response.ok) {
+      throw new Error(`Erro HTTP: ${response.status}`);
+    }
+
     const translations = await response.json();
 
     document.querySelectorAll("[data-i18n]").forEach((element) => {
@@ -11,6 +15,8 @@ async function loadLanguage(language) {
         element.textContent = translations[key];
       }
     });
+
+    document.documentElement.lang = language === "pt-br" ? "pt-BR" : "en-US";
 
     localStorage.setItem("language", language);
   } catch (error) {
@@ -23,7 +29,6 @@ window.addEventListener("DOMContentLoaded", () => {
 
   if (savedLanguage) {
     loadLanguage(savedLanguage);
-
     return;
   }
 
@@ -37,7 +42,6 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 
 const ptButton = document.getElementById("pt-btn");
-
 const enButton = document.getElementById("en-btn");
 
 if (ptButton) {
