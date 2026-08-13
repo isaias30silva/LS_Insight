@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>LS Insight | Inteligência de Software</title>
+
+    <meta
+      name="description"
+      content="Soluções digitais sob medida para empresas. Automação, consultoria tecnológica e desenvolvimento de sistemas."
+    />
+
+    <meta
+      name="keywords"
+      content="tecnologia, software, automação, consultoria tecnológica, desenvolvimento de sistemas"
+    />
+
+    <meta name="author" content="LS Insight" />
+
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/accounting.css" />
+    <link rel="stylesheet" href="./assets/css/reset.css" />
+    <link rel="stylesheet" href="./assets/css/variables.css" />
+    <link rel="stylesheet" href="./assets/css/header.css" />
+    <link rel="stylesheet" href="./assets/css/hero.css" />
+    <link rel="stylesheet" href="./assets/css/sections.css" />
+    <link rel="stylesheet" href="./assets/css/footer.css" />
+    <link rel="stylesheet" href="./assets/css/responsive.css" />
+  </head>
+
+  <body>
+    <div id="cookie-banner">
+      <p data-i18n="cookie_message">
+        Utilizamos cookies para melhorar sua experiência de navegação.
+      </p>
+
+      <div class="cookie-actions">
+        <button id="accept-cookies" data-i18n="accept_cookies">Aceitar</button>
+
+        <button id="reject-cookies" data-i18n="reject_cookies">Recusar</button>
+      </div>
+
+      <a href="privacy.html" data-i18n="privacy_policy">
+        Política de Privacidade
+      </a>
+    </div>
+    <header id="site-header">
+      <nav aria-label="Menu Principal">
+        <div class="logo">
+          <a href="index.html">
+            <img src="./assets/images/logo/logo.png" alt="LS Insight" />
+          </a>
+        </div>
+
+        <button
+          id="menu-toggle"
+          aria-label="Abrir menu"
+          aria-expanded="false"
+          aria-controls="main-menu"
+        >
+          ☰
+        </button>
+
+        <ul id="main-menu">
+          <li>
+            <a href="index.html" aria-current="page" data-i18n="menu_home">
+              LS Insight
+            </a>
+          </li>
+
+          <li>
+            <a href="academy.html" data-i18n="menu_academy"> Academy </a>
+          </li>
+
+          <li>
+            <a href="contabil.html" data-i18n="menu_accounting">
+              Consultoria Contábil
+            </a>
+          </li>
+
+          <li>
+            <a href="consorcio.html" data-i18n="menu_consortium"> Consórcio </a>
+          </li>
+        </ul>
+
+        <div class="language-selector">
+          <button id="pt-btn">PT</button>
+
+          <button id="en-btn">EN</button>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="accounting-hero">
+        <div class="accounting-hero-content">
+          <h1>
+            <span data-i18n="accounting_hero_title_start">
+              Consultoria Contábil para
+            </span>
+
+            <span
+              class="typing-word"
+              data-text-pt="transformar"
+              data-text-en="transform"
+            ></span>
+
+            <span data-i18n="accounting_hero_title_end">
+              sua gestão financeira
+            </span>
+          </h1>
+
+          <p data-i18n="accounting_hero_description">
+            Soluções contábeis, fiscais e tributárias para pessoas físicas e
+            empresas.
+          </p>
+
+          <div class="hero-buttons">
+            <a href="#services-accounting" data-i18n="accounting_hero_cta">
+              Conheça os Serviços
+            </a>
+
+            <a
+              href="#accounting-contact"
+              data-i18n="accounting_hero_secondary_cta"
+            >
+              Fale Conosco
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section id="about-accounting">
+        <div class="about-overlay">
+          <h2 data-i18n="accounting_about_title">
+            Sobre a LS Insight Consultoria Contábil
+          </h2>
+
+          <div class="about-content">
+            <p>
+              <span data-i18n="accounting_about_intro">A</span>
+
+              <span class="highlight-secondary">
+                LS Insight Consultoria Contábil
+              </span>
+
+              <span data-i18n="accounting_about_description_1">
+                oferece suporte especializado para pessoas físicas, MEIs e
+                pequenas empresas.
+              </span>
+            </p>
+
+            <p>
+              <span data-i18n="accounting_about_paragraph_2_before">
+                Atuamos com foco em
+              </span>
+
+              <span
+                class="highlight-secondary"
+                data-i18n="accounting_about_focus"
+              >
+                organização financeira, conformidade fiscal e planejamento
+                tributário </span
+              >.
+            </p>
+
+            <p>
+              <span data-i18n="accounting_about_paragraph_3_before">
+                Nosso objetivo é simplificar processos, reduzir riscos e
+                permitir que você foque no
+              </span>
+
+              <span
+                class="highlight-secondary"
+                data-i18n="accounting_about_growth"
+              >
+                crescimento do seu negócio.
+              </span>
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="services-accounting">
+        <h2 data-i18n="accounting_services_title">Nossos Serviços</h2>
+
+        <div class="services-grid">
+          <article class="service-card">
+            <img src="./assets/images/accounting/dirpf.jpg" alt="DIRPF" />
+
+            <div class="service-content">
+              <h3>DIRPF</h3>
+
+              <p data-i18n="accounting_service_dirpf_description">
+                Elaboração e entrega da Declaração do Imposto de Renda Pessoa
+                Física.
+              </p>
+
+              <div class="service-details">
+                <span data-i18n="accounting_service_dirpf_detail_1">
+                  📄 Declaração Completa
+                </span>
+
+                <span data-i18n="accounting_service_dirpf_detail_2">
+                  📊 Análise Patrimonial
+                </span>
+
+                <span data-i18n="accounting_service_dirpf_detail_3">
+                  ⚖️ Regularização Fiscal
+                </span>
+              </div>
+
+              <a
+                href="#"
+                class="service-btn"
+                data-i18n="accounting_service_learn_more"
+              >
+                Saiba Mais
+              </a>
+            </div>
+          </article>
+
+          <article class="service-card">
+            <img src="./assets/images/accounting/mei.jpg" alt="MEI" />
+
+            <div class="service-content">
+              <h3>MEI</h3>
+
+              <p data-i18n="accounting_service_mei_description">
+                Abertura, regularização e suporte completo ao Microempreendedor
+                Individual.
+              </p>
+
+              <div class="service-details">
+                <span data-i18n="accounting_service_mei_detail_1">
+                  🏢 Abertura
+                </span>
+
+                <span data-i18n="accounting_service_mei_detail_2">
+                  📑 DASN-SIMEI
+                </span>
+
+                <span data-i18n="accounting_service_mei_detail_3">
+                  💰 Emissão de Guias
+                </span>
+              </div>
+
+              <a
+                href="#"
+                class="service-btn"
+                data-i18n="accounting_service_learn_more"
+              >
+                Saiba Mais
+              </a>
+            </div>
+          </article>
+
+          <article class="service-card">
+            <img
+              src="./assets/images/accounting/accounting.jpg"
+              alt="Contabilidade"
+            />
+
+            <div class="service-content">
+              <h3 data-i18n="accounting_service_accounting_title">
+                Contabilidade
+              </h3>
+
+              <p data-i18n="accounting_service_accounting_description">
+                Gestão contábil e suporte estratégico para empresas.
+              </p>
+
+              <div class="service-details">
+                <span data-i18n="accounting_service_accounting_detail_1">
+                  📈 Planejamento
+                </span>
+
+                <span data-i18n="accounting_service_accounting_detail_2">
+                  📊 Relatórios
+                </span>
+
+                <span data-i18n="accounting_service_accounting_detail_3">
+                  ⚙️ Consultoria
+                </span>
+              </div>
+
+              <a
+                href="#"
+                class="service-btn"
+                data-i18n="accounting_service_learn_more"
+              >
+                Saiba Mais
+              </a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="accounting-benefits">
+        <h2 data-i18n="accounting_benefits_title">
+          Por que escolher nossa consultoria?
+        </h2>
+
+        <div class="benefits-grid">
+          <article>
+            <span class="benefit-icon">🔒</span>
+
+            <h3 data-i18n="accounting_benefit_security_title">Segurança</h3>
+
+            <p data-i18n="accounting_benefit_security_description">
+              Processos realizados com responsabilidade e conformidade fiscal.
+            </p>
+          </article>
+
+          <article>
+            <span class="benefit-icon">📞</span>
+
+            <h3 data-i18n="accounting_benefit_service_title">
+              Atendimento Personalizado
+            </h3>
+
+            <p data-i18n="accounting_benefit_service_description">
+              Suporte próximo e orientado às necessidades do cliente.
+            </p>
+          </article>
+
+          <article>
+            <span class="benefit-icon">📊</span>
+
+            <h3 data-i18n="accounting_benefit_planning_title">Planejamento</h3>
+
+            <p data-i18n="accounting_benefit_planning_description">
+              Organização financeira para tomada de decisões.
+            </p>
+          </article>
+
+          <article>
+            <span class="benefit-icon">⚡</span>
+
+            <h3 data-i18n="accounting_benefit_agility_title">Agilidade</h3>
+
+            <p data-i18n="accounting_benefit_agility_description">
+              Resolução rápida das demandas contábeis.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="accounting-cta">
+        <h2 data-i18n="accounting_cta_title">
+          Organize sua vida financeira e tributária
+        </h2>
+
+        <p data-i18n="accounting_cta_description">
+          Conte com orientação especializada para declaração de imposto de
+          renda, regularização de MEI e suporte contábil para tomada de
+          decisões.
+        </p>
+
+        <a href="#accounting-form" data-i18n="accounting_cta_button">
+          Solicitar Atendimento
+        </a>
+      </section>
+
+      <section id="accounting-form">
+        <h2 data-i18n="accounting_form_title">Solicite uma Consultoria</h2>
+
+        <form id="accounting-form-element">
+          <div>
+            <label for="accounting-name" data-i18n="accounting_label_name">
+              Nome
+            </label>
+
+            <input
+              type="text"
+              id="accounting-name"
+              name="name"
+              autocomplete="name"
+              required
+            />
+          </div>
+
+          <div>
+            <label for="accounting-email" data-i18n="accounting_label_email">
+              E-mail
+            </label>
+
+            <input
+              type="email"
+              id="accounting-email"
+              name="email"
+              autocomplete="email"
+              required
+            />
+          </div>
+
+          <div>
+            <label for="accounting-phone" data-i18n="accounting_label_phone">
+              WhatsApp
+            </label>
+
+            <input
+              type="tel"
+              id="accounting-phone"
+              name="phone"
+              autocomplete="tel"
+            />
+          </div>
+
+          <div>
+            <label
+              for="accounting-service"
+              data-i18n="accounting_label_service"
+            >
+              Serviço de Interesse
+            </label>
+
+            <select id="accounting-service" name="service" required>
+              <option value="" data-i18n="accounting_select_service">
+                Selecione um serviço
+              </option>
+
+              <option value="dirpf">DIRPF</option>
+
+              <option value="mei">MEI</option>
+
+              <option
+                value="consultoria"
+                data-i18n="accounting_option_consulting"
+              >
+                Consultoria Contábil
+              </option>
+            </select>
+          </div>
+
+          <div>
+            <label
+              for="accounting-message"
+              data-i18n="accounting_label_message"
+            >
+              Mensagem
+            </label>
+
+            <textarea
+              id="accounting-message"
+              name="message"
+              rows="5"
+              required
+            ></textarea>
+          </div>
+
+          <button type="submit" data-i18n="accounting_submit">
+            Solicitar Atendimento
+          </button>
+        </form>
+      </section>
+
+      <section id="contact">
+        <h2 data-i18n="contact_title">Contato</h2>
+
+        <p>
+          <span data-i18n="contact_whatsapp">WhatsApp:</span>
+
+          <a href="#">(21) 92002-3944</a>
+        </p>
+
+        <p>
+          <span data-i18n="contact_instagram">Instagram:</span>
+
+          <a href="https://www.instagram.com/ls_insight/">LS Insight</a>
+        </p>
+      </section>
+    </main>
+
+    <footer id="site-footer">
+      <section>
+        <h3>LS Insight</h3>
+
+        <p data-i18n="footer_description">
+          Soluções digitais sob medida para empresas.
+        </p>
+      </section>
+
+      <section>
+        <h3 data-i18n="footer_navigation">Navegação</h3>
+
+        <nav>
+          <a href="index.html" data-i18n="footer_home"> Home </a>
+
+          <a href="academy.html" data-i18n="footer_academy"> Academy </a>
+
+          <a href="contabil.html" data-i18n="footer_accounting">
+            Consultoria Contábil
+          </a>
+
+          <a href="consorcio.html" data-i18n="footer_consortium"> Consórcio </a>
+
+          <a href="privacy.html" data-i18n="footer_privacy">
+            Política de Privacidade
+          </a>
+        </nav>
+      </section>
+
+      <section class="footer-location">
+        <h3 data-i18n="footer_location">Localização</h3>
+
+        <p>
+          <span data-i18n="footer_address">
+            Rua Professor Clemente Ferreira, 1213
+          </span>
+
+          <br />
+
+          <span data-i18n="footer_city"> Bangu - Rio de Janeiro - RJ </span>
+
+          <br />
+
+          <span data-i18n="footer_zip"> CEP: 21810-141 </span>
+        </p>
+
+        <a
+          href="https://www.google.com/maps/search/?api=1&query=Rua+Professor+Clemente+Ferreira%2C+1213%2C+Bangu%2C+Rio+de+Janeiro%2C+RJ%2C+21810-141"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Abrir localização da LS Insight no Google Maps"
+        >
+          <div class="footer-map">
+            <iframe
+              src="https://www.google.com/maps?q=Rua+Professor+Clemente+Ferreira,+1213,+Bangu,+Rio+de+Janeiro,+RJ,+21810-141&output=embed"
+              loading="lazy"
+              title="Localização da LS Insight"
+            ></iframe>
+          </div>
+        </a>
+      </section>
+
+      <div class="footer-bottom">
+        <p data-i18n="footer_rights">
+          © 2026 LS Insight. Todos os direitos reservados.
+        </p>
+      </div>
+    </footer>
+
+    <script src="./assets/js/language.js"></script>
+    <script src="./assets/js/validation.js"></script>
+    <script src="./assets/js/main.js"></script>
+
+    <a
+      href="https://wa.me/5521920023944"
+      class="whatsapp-float"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Conversar pelo WhatsApp"
+    >
+      <img src="./assets/images/icons/whatsapp.svg" alt="WhatsApp" />
+    </a>
+  </body>
+</html>

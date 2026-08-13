@@ -1,0 +1,348 @@
+#accounting-hero {
+  min-height: 80vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  background: linear-gradient(135deg, #1f2937, #374151);
+
+  color: white;
+}
+
+.accounting-hero-content {
+  max-width: 900px;
+
+  padding: 2rem;
+}
+
+.accounting-hero-content p {
+  margin: 2rem auto;
+}
+
+.accounting-hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.accounting-hero-buttons a {
+  padding: 1rem 2rem;
+
+  border-radius: 12px;
+
+  transition: 0.3s;
+}
+
+.accounting-hero-buttons a:first-child {
+  background: var(--color-primary);
+  color: white;
+}
+
+.accounting-hero-buttons a:last-child {
+  border: 2px solid white;
+  color: white;
+}
+
+#accounting-hero .typing-word {
+  color: #f4d35e;
+
+  font-weight: 800;
+
+  border-right: 3px solid #f4d35e;
+
+  text-shadow:
+    0 0 8px rgba(244, 211, 94, 0.25),
+    0 0 16px rgba(244, 211, 94, 0.15);
+}
+
+#about-accounting .about-content {
+  max-width: 900px;
+
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+#about-accounting p {
+  max-width: 800px;
+
+  margin: 1.5rem auto;
+
+  font-size: 1.1rem;
+
+  line-height: 1.8;
+}
+
+.services-grid {
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+
+  gap: 2rem;
+
+  margin-top: 2rem;
+}
+
+.service-card {
+  background: white;
+
+  border-radius: 20px;
+
+  overflow: hidden;
+
+  box-shadow: var(--shadow-sm);
+
+  transition: 0.3s;
+
+  position: relative;
+}
+
+.service-card::before {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 5px;
+
+  background: linear-gradient(90deg, var(--accounting-secondary), #f4d35e);
+}
+
+.service-card:hover {
+  transform: translateY(-8px);
+
+  box-shadow: var(--shadow-md);
+}
+
+.service-card img {
+  width: 100%;
+
+  height: 220px;
+
+  object-fit: cover;
+}
+
+.service-content {
+  padding: 1.8rem;
+}
+
+.service-content h3 {
+  color: var(--accounting-primary);
+
+  margin-bottom: 1rem;
+}
+
+.service-content p {
+  margin-bottom: 1.5rem;
+
+  line-height: 1.6;
+}
+
+.service-details {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 0.75rem;
+
+  margin-bottom: 1.5rem;
+}
+
+.service-details span {
+  display: flex;
+
+  align-items: center;
+
+  gap: 0.5rem;
+
+  font-size: 0.95rem;
+}
+
+.service-btn {
+  display: inline-block;
+
+  background: var(--accounting-secondary);
+
+  color: white;
+
+  padding: 0.9rem 1.5rem;
+
+  border-radius: 10px;
+
+  font-weight: 700;
+
+  transition: 0.3s;
+}
+
+.service-btn:hover {
+  background: #b68f1c;
+
+  transform: translateY(-2px);
+}
+
+#accounting-benefits {
+  margin-top: 4rem;
+}
+
+#accounting-benefits h2 {
+  text-align: center;
+}
+
+.benefits-grid {
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+
+  gap: 2rem;
+
+  margin-top: 2rem;
+}
+
+.benefits-grid article {
+  background: white;
+
+  padding: 2rem;
+
+  border-radius: 20px;
+
+  text-align: center;
+
+  box-shadow: var(--shadow-sm);
+
+  transition: 0.3s;
+}
+
+.benefits-grid article:hover {
+  transform: translateY(-5px);
+
+  box-shadow: var(--shadow-md);
+}
+
+.benefit-icon {
+  display: block;
+
+  font-size: 3rem;
+
+  margin-bottom: 1rem;
+}
+
+.benefits-grid h3 {
+  color: var(--accounting-primary);
+
+  margin-bottom: 1rem;
+}
+
+.benefits-grid p {
+  line-height: 1.6;
+}
+
+#accounting-cta {
+  background: linear-gradient(135deg, #2c2c2c, #444444);
+
+  color: white;
+
+  text-align: center;
+
+  padding: 5rem 2rem;
+
+  border-radius: 20px;
+
+  margin: 4rem 0;
+}
+
+#accounting-cta h2 {
+  margin-bottom: 1rem;
+}
+
+#accounting-cta p {
+  max-width: 700px;
+
+  margin: 0 auto 2rem;
+}
+
+#accounting-cta a {
+  display: inline-block;
+
+  background: #c9a227;
+
+  color: white;
+
+  padding: 1rem 2rem;
+
+  border-radius: 10px;
+
+  font-weight: 700;
+
+  transition: 0.3s;
+}
+
+#accounting-cta a:hover {
+  transform: translateY(-3px);
+}
+
+#accounting-form {
+  background: white;
+
+  border-radius: 20px;
+
+  box-shadow: var(--shadow-sm);
+}
+
+#accounting-form h2 {
+  text-align: center;
+
+  margin-bottom: 2rem;
+
+  color: var(--accounting-primary);
+}
+
+#accounting-form form {
+  max-width: 800px;
+
+  margin: auto;
+
+  display: grid;
+
+  gap: 1rem;
+}
+
+#accounting-form input,
+#accounting-form select,
+#accounting-form textarea {
+  width: 100%;
+
+  padding: 1rem;
+
+  border: 1px solid var(--color-border);
+
+  border-radius: 8px;
+}
+
+#accounting-form button {
+  background: #c9a227;
+
+  color: white;
+
+  border: none;
+
+  padding: 1rem;
+
+  border-radius: 10px;
+
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+#accounting-form button:hover {
+  background: #b38f1f;
+}

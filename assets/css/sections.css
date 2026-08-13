@@ -1,0 +1,189 @@
+.services-container,
+.business-units-container {
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 2rem;
+
+  margin-top: 2rem;
+}
+
+.services-container article,
+.business-units-container article {
+  background: white;
+
+  padding: 2rem;
+
+  border-radius: 16px;
+
+  box-shadow: var(--shadow-sm);
+
+  transition: 0.3s;
+}
+
+.services-container article:hover,
+.business-units-container article:hover {
+  transform: translateY(-5px);
+
+  box-shadow: var(--shadow-md);
+}
+
+.services-container article p,
+.business-units-container article p,
+.differentials-grid article p {
+  margin-top: 1rem;
+
+  font-size: 0.95rem;
+
+  line-height: 1.6;
+}
+
+.services-container article h3,
+.business-units-container article h3,
+.differentials-grid article h3 {
+  margin-top: 0.5rem;
+
+  color: var(--color-primary);
+}
+
+#about {
+  text-align: center;
+
+  margin: 3rem auto 0;
+
+  position: relative;
+
+  background-image:
+    linear-gradient(rgba(14, 79, 107, 0.94), rgba(31, 163, 122, 0.88)),
+    url("../images/about/office-tech.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  color: white;
+
+  max-width: 1200px;
+
+  box-shadow: var(--shadow-md);
+}
+
+#about-academy {
+  text-align: center;
+
+  margin: 3rem auto 0;
+
+  position: relative;
+
+  background:
+    linear-gradient(rgba(14, 79, 107, 0.92), rgba(22, 104, 138, 0.9)),
+    url("../images/academy/academy-bg.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  color: white;
+
+  max-width: 1200px;
+
+  box-shadow: var(--shadow-md);
+}
+
+#about-accounting {
+  text-align: center;
+
+  margin: 3rem auto;
+
+  background:
+    linear-gradient(rgba(14, 79, 107, 0.92), rgba(31, 41, 55, 0.92)),
+    url("../images/accounting/accounting-bg.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  color: white;
+
+  max-width: 1200px;
+
+  box-shadow: var(--shadow-md);
+}
+
+#about h2 {
+  color: var(--color-background);
+}
+
+#about p {
+  margin: 1.5rem auto;
+  color: rgba(255, 255, 255, 0.95);
+
+  font-size: 1.1rem;
+}
+
+.about-overlay {
+  padding: 4rem 3rem;
+}
+
+#cta-section {
+  margin: 2rem auto;
+
+  background: linear-gradient(
+    135deg,
+    var(--color-primary),
+    var(--color-secondary)
+  );
+
+  border-radius: 20px;
+
+  color: white;
+
+  text-align: center;
+
+  box-shadow: var(--shadow-md);
+}
+
+.cta-container {
+  padding: 4rem 2rem;
+
+  max-width: 900px;
+
+  margin: auto;
+}
+
+.cta-container h2 {
+  color: white;
+
+  margin-bottom: 1rem;
+}
+
+.cta-container p {
+  margin: 0 auto 2rem;
+
+  max-width: 700px;
+
+  font-size: 1.1rem;
+}
+
+.cta-button {
+  display: inline-block;
+
+  padding: 1rem 2rem;
+
+  background: white;
+
+  color: var(--color-primary);
+
+  font-weight: 700;
+
+  border-radius: 10px;
+
+  transition: 0.3s;
+}
+
+.cta-button:hover {
+  transform: translateY(-3px);
+
+  box-shadow: var(--shadow-md);
+}

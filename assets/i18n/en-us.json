@@ -1,0 +1,359 @@
+{
+  "menu_home": "LS Insight",
+  "menu_academy": "Academy",
+  "menu_accounting": "Accounting Consulting",
+  "menu_consortium": "Consortium",
+
+  "cookie_message": "We use cookies to improve your browsing experience.",
+  "accept_cookies": "Accept",
+  "reject_cookies": "Decline",
+  "privacy_policy": "Privacy Policy",
+
+  "footer_description": "Custom digital solutions for businesses.",
+  "footer_navigation": "Navigation",
+  "footer_location": "Location",
+
+  "footer_home": "Home",
+  "footer_academy": "Academy",
+  "footer_accounting": "Accounting Consulting",
+  "footer_consortium": "Consortium",
+  "footer_privacy": "Privacy Policy",
+
+  "footer_address": "1213 Professor Clemente Ferreira Street",
+  "footer_city": "Bangu - Rio de Janeiro - RJ",
+  "footer_zip": "ZIP Code: 21810-141",
+
+  "footer_rights": "© 2026 LS Insight. All rights reserved.",
+
+  "hero_title_start": "Software Intelligence to",
+  "hero_title_end": "businesses",
+
+  "hero_description": "Custom digital solutions for companies. Automation and strategy.",
+
+  "hero_cta": "Request a Diagnosis",
+  "hero_secondary_cta": "Discover Our Solutions",
+
+  "about_title": "About LS Insight",
+  "about_intro": " ",
+  "about_description_1": "works in the digital transformation of companies through technology consulting, system development, and process automation.",
+  "about_paragraph_2": "Our goal is to help organizations reduce costs, increase productivity, and make smarter decisions through technology.",
+  "about_paragraph_3_before": "We develop customized solutions aligned with the real needs of each business, always focusing on",
+  "about_efficiency": "efficiency",
+  "about_growth": "growth",
+  "about_and": "and",
+  "about_results": "results",
+
+  "services_title": "Our Solutions",
+
+  "service_development_title": "System Development",
+  "service_development_description": "Customized web systems to optimize processes and increase operational efficiency.",
+
+  "service_automation_title": "Process Automation",
+  "service_automation_description": "Eliminate repetitive tasks and increase productivity with intelligent automation.",
+
+  "service_consulting_title": "Technology Consulting",
+  "service_consulting_description": "Diagnosis and strategic planning to accelerate digital transformation.",
+
+  "service_business_title": "Business Intelligence",
+  "service_business_description": "Data and indicators to support faster and more accurate decisions.",
+
+  "business_units_title": "Areas of Expertise",
+
+  "unit_main": "Technology consulting, system development, process automation, and customized digital solutions.",
+  "unit_academy": "Courses, training, and professional development focused on technology, productivity, and innovation.",
+  "unit_accounting": "Services for MEIs, income tax returns, and accounting support for individuals and companies.",
+  "unit_consortium": "Asset planning and real estate consortium solutions for acquiring assets without interest.",
+
+  "differentials_title": "Our Differentials",
+
+  "differential_custom_title": "✓ Customized Solutions",
+  "differential_custom_description": "Each project is developed according to the client's reality.",
+
+  "differential_automation_title": "✓ Intelligent Automation",
+  "differential_automation_description": "Reduction of manual tasks and increased productivity.",
+
+  "differential_service_title": "✓ Consulting Support",
+  "differential_service_description": "Strategic guidance to support business growth.",
+
+  "differential_results_title": "✓ Results-Oriented",
+  "differential_results_description": "Technology applied with market intelligence to generate value and efficiency.",
+
+  "cta_title": "Transform your business with intelligent technology",
+  "cta_description": "Discover opportunities for automation, process optimization, and customized solutions to accelerate your business growth.",
+  "cta_button": "Talk to a specialist now",
+
+  "diagnostic_title": "Request a Diagnosis",
+  "label_name": "Name",
+  "label_company": "Company",
+  "label_email": "Email",
+  "label_phone": "WhatsApp",
+  "label_message": "Describe your needs",
+  "submit_diagnostic": "Request Diagnosis",
+
+  "contact_title": "Contact",
+  "contact_whatsapp": "WhatsApp:",
+  "contact_instagram": "Instagram:",
+
+  "privacy_title": "Privacy Policy",
+  "privacy_subtitle": "Transparency, security, and respect for your personal data.",
+
+  "privacy_intro": "LS Insight values the privacy and security of information belonging to its users, clients, and visitors. This Privacy Policy transparently explains how personal data may be processed while using our website and our communication channels.",
+
+  "privacy_section_1_title": "1. About This Policy",
+  "privacy_section_1_text_1": "This Privacy Policy aims to explain how personal information may be collected, used, stored, and protected while browsing the LS Insight website.",
+  "privacy_section_1_text_2": "The processing of personal data is carried out in accordance with applicable legislation, especially the Brazilian General Data Protection Law (LGPD), Law No. 13,709/2018.",
+
+  "privacy_section_2_title": "2. Personal Data That May Be Collected",
+  "privacy_section_2_intro": "Depending on the interaction performed on the website, information necessary for customer service, communication, or service provision may be requested.",
+  "privacy_section_2_item_1": "Name;",
+  "privacy_section_2_item_2": "Email address;",
+  "privacy_section_2_item_3": "Phone number or WhatsApp;",
+  "privacy_section_2_item_4": "Company name, when applicable;",
+  "privacy_section_2_item_5": "Information voluntarily provided through forms;",
+  "privacy_section_2_item_6": "Technical information related to browsing.",
+
+  "privacy_section_3_title": "3. How We Use Data",
+  "privacy_section_3_intro": "The information provided may be used, according to the applicable purpose, to:",
+  "privacy_section_3_item_1": "Respond to requests and messages;",
+  "privacy_section_3_item_2": "Contact users interested in our services;",
+  "privacy_section_3_item_3": "Provide customer service and requested information;",
+  "privacy_section_3_item_4": "Improve the browsing experience on the website;",
+  "privacy_section_3_item_5": "Ensure the security and proper functioning of the platform.",
+
+  "privacy_section_4_title": "4. Cookies",
+  "privacy_section_4_text_1": "Our website may use cookies and similar technologies to improve the browsing experience and store certain user preferences.",
+  "privacy_section_4_text_2": "The cookie banner allows users to register their preference regarding the use of these technologies. The selected preference is stored locally in the browser to prevent the notice from being displayed again during browsing.",
+  "privacy_section_4_text_3": "Users can manage or delete data stored by the browser through the browser's own settings.",
+
+  "privacy_section_5_title": "5. Information Security",
+  "privacy_section_5_text_1": "LS Insight seeks to adopt appropriate technical and organizational measures to protect personal data against unauthorized access, loss, alteration, disclosure, or misuse.",
+  "privacy_section_5_text_2": "Despite the security measures adopted, no system connected to the internet can be considered completely immune to risks.",
+
+  "privacy_section_6_title": "6. Data Sharing",
+  "privacy_section_6_text_1": "Personal data should not be shared indiscriminately. When necessary, data may be shared to fulfill legitimate purposes, legal obligations, or operations required to provide services.",
+  "privacy_section_6_text_2": "Whenever applicable, the requirements established by personal data protection legislation will be observed.",
+
+  "privacy_section_7_title": "7. Data Subject Rights",
+  "privacy_section_7_text_1": "The LGPD grants personal data subjects several rights regarding the processing of their information.",
+  "privacy_section_7_text_2": "These rights include:",
+  "privacy_section_7_item_1": "Confirmation of the existence of data processing;",
+  "privacy_section_7_item_2": "Access to personal data;",
+  "privacy_section_7_item_3": "Correction of incomplete or outdated data;",
+  "privacy_section_7_item_4": "Request for anonymization, blocking, or deletion, when applicable;",
+  "privacy_section_7_item_5": "Information about data sharing;",
+  "privacy_section_7_item_6": "Data portability, subject to applicable regulations;",
+  "privacy_section_7_item_7": "Withdrawal of consent when consent is the applicable legal basis.",
+  "privacy_section_7_text_3": "These rights are provided for under the LGPD and may be subject to conditions and exceptions established by law.",
+
+  "privacy_section_8_title": "8. Data Protection Principles",
+  "privacy_section_8_text_1": "The processing of personal data must observe principles such as purpose, adequacy, necessity, transparency, security, prevention, and accountability.",
+  "privacy_section_8_text_2": "Therefore, we seek to use only the information necessary for the purposes communicated and compatible with each interaction performed by the user.",
+
+  "privacy_section_9_title": "9. Policy Updates",
+  "privacy_section_9_text_1": "This Privacy Policy may be periodically updated to reflect changes in services, data processing practices, or applicable legislation.",
+  "privacy_section_9_text_2": "We recommend that users periodically consult this page to keep up with any changes.",
+
+  "privacy_section_10_title": "10. Contact",
+  "privacy_section_10_text": "If you have questions about this Privacy Policy or the processing of personal data, please contact us.",
+
+  "privacy_last_update": "Last updated: August 2026",
+
+  "academy_title_start": "Training that",
+  "academy_title_end": "careers",
+
+  "academy_hero_description": "Courses and training focused on technology, automation, systems development, and professional growth.",
+  "academy_hero_courses": "Explore Our Courses",
+  "academy_hero_contact": "Request Information",
+
+  "academy_about_title": "About LS Insight Academy",
+  "academy_about_1_start": " ",
+  "academy_about_1_end": "was created to empower professionals and companies through practical training and market-oriented content.",
+
+  "academy_about_2_start": "Our courses combine",
+  "academy_about_2_highlight": "technology, professional experience, and real-world application",
+  "academy_about_2_end": "to accelerate career and business development.",
+
+  "academy_about_3_start": "Learn at your own pace and develop skills that generate",
+  "academy_about_3_highlight": "concrete results.",
+
+  "academy_courses_title": "Featured Courses",
+
+  "course_fullstack_title": "Full Stack Development",
+  "course_fullstack_description": "Learn frontend, backend, and databases through practical projects.",
+  "course_fullstack_duration": "📅 6 months",
+
+  "course_powerbi_title": "Power BI and Dashboards",
+  "course_powerbi_description": "Turn data into strategic and valuable information.",
+  "course_powerbi_duration": "📅 3 months",
+
+  "course_git_title": "Git and GitHub",
+  "course_git_description": "Professional source code control and versioning.",
+  "course_git_duration": "📅 2 months",
+
+  "course_online": "💻 100% Online",
+  "course_material": "📄 PDF Materials",
+  "course_learn_more": "Learn More",
+
+  "academy_benefits_title": "Why Study With Us?",
+
+  "benefit_certificate": "Certificate",
+  "benefit_certificate_description": "Certification upon completion of the training.",
+
+  "benefit_updated": "Updated Content",
+  "benefit_updated_description": "Materials aligned with the technologies most widely used in the market.",
+
+  "benefit_practical": "Practical Classes",
+  "benefit_practical_description": "Learning based on real-world projects and situations.",
+
+  "benefit_support": "Specialized Support",
+  "benefit_support_description": "Get guidance throughout your learning journey.",
+
+  "academy_cta_title": "Invest in Your Professional Growth",
+  "academy_cta_description": "Develop skills valued by the market and accelerate your career.",
+  "academy_cta_button": "Learn More",
+
+  "academy_contact_title": "Request Information",
+  "academy_course_label": "Course of Interest",
+  "academy_contact_submit": "Request Information",
+
+  "accounting_hero_title_start": "Accounting Consulting to",
+  "accounting_hero_title_end": "manage your finances",
+  "accounting_hero_description": "Accounting, tax, and fiscal solutions for individuals and businesses.",
+  "accounting_hero_cta": "Explore Our Services",
+  "accounting_hero_secondary_cta": "Contact Us",
+
+  "accounting_about_title": "About LS Insight Accounting Consulting",
+  "accounting_about_intro": " ",
+  "accounting_about_description_1": "provides specialized support for individuals, MEIs, and small businesses.",
+  "accounting_about_paragraph_2_before": "We focus on",
+  "accounting_about_focus": "financial organization, tax compliance, and tax planning",
+  "accounting_about_paragraph_3_before": "Our goal is to simplify processes, reduce risks, and allow you to focus on",
+  "accounting_about_growth": "growing your business.",
+
+  "accounting_services_title": "Our Services",
+
+  "accounting_service_dirpf_description": "Preparation and filing of Individual Income Tax Returns.",
+  "accounting_service_dirpf_detail_1": "📄 Complete Tax Return",
+  "accounting_service_dirpf_detail_2": "📊 Asset Analysis",
+  "accounting_service_dirpf_detail_3": "⚖️ Tax Regularization",
+
+  "accounting_service_mei_description": "Registration, regularization, and complete support for Individual Microentrepreneurs.",
+  "accounting_service_mei_detail_1": "🏢 Registration",
+  "accounting_service_mei_detail_2": "📑 DASN-SIMEI",
+  "accounting_service_mei_detail_3": "💰 Tax Guide Issuance",
+
+  "accounting_service_accounting_title": "Accounting",
+  "accounting_service_accounting_description": "Accounting management and strategic support for businesses.",
+  "accounting_service_accounting_detail_1": "📈 Planning",
+  "accounting_service_accounting_detail_2": "📊 Reports",
+  "accounting_service_accounting_detail_3": "⚙️ Consulting",
+
+  "accounting_service_learn_more": "Learn More",
+
+  "accounting_benefits_title": "Why Choose Our Consulting Services?",
+
+  "accounting_benefit_security_title": "Security",
+  "accounting_benefit_security_description": "Processes carried out with responsibility and tax compliance.",
+
+  "accounting_benefit_service_title": "Personalized Service",
+  "accounting_benefit_service_description": "Close support tailored to the client's needs.",
+
+  "accounting_benefit_planning_title": "Planning",
+  "accounting_benefit_planning_description": "Financial organization to support decision-making.",
+
+  "accounting_benefit_agility_title": "Agility",
+  "accounting_benefit_agility_description": "Fast resolution of accounting-related demands.",
+
+  "accounting_cta_title": "Organize Your Financial and Tax Affairs",
+  "accounting_cta_description": "Count on specialized guidance for income tax returns, MEI regularization, and accounting support for decision-making.",
+  "accounting_cta_button": "Request Assistance",
+
+  "accounting_form_title": "Request a Consultation",
+  "accounting_label_name": "Name",
+  "accounting_label_email": "Email",
+  "accounting_label_phone": "WhatsApp",
+  "accounting_label_service": "Service of Interest",
+  "accounting_select_service": "Select a service",
+  "accounting_option_consulting": "Accounting Consulting",
+  "accounting_label_message": "Message",
+  "accounting_submit": "Request Assistance",
+
+  "consortium_hero_title_start": "Smart Planning to Turn",
+  "consortium_hero_title_end": "assets into achievements",
+  "consortium_hero_description": "Planned consortium solutions for acquiring real estate, vehicles, and building wealth.",
+  "consortium_hero_cta": "Request a Simulation",
+  "consortium_hero_secondary_cta": "Explore Our Options",
+
+  "consortium_about_title": "About LS Insight Consortium",
+  "consortium_about_intro": " ",
+  "consortium_about_description_1": "offers smart solutions for those who want to acquire assets and build wealth through careful planning.",
+  "consortium_about_paragraph_2_before": "We offer options focused on",
+  "consortium_about_focus": "real estate, vehicles, and wealth strategies,",
+  "consortium_about_paragraph_2_after": "always seeking financial security and predictability.",
+  "consortium_about_paragraph_3_before": "Our goal is to help clients achieve their projects through",
+  "consortium_about_planning": "sustainable and efficient planning.",
+
+  "consortium_services_title": "Consortium Options",
+
+  "consortium_service_vehicle_image_alt": "Vehicle Consortium",
+  "consortium_service_vehicle_title": "Vehicle Consortium",
+  "consortium_service_vehicle_description": "Planning for the acquisition of cars, motorcycles, and utility vehicles without interest payments.",
+  "consortium_service_vehicle_detail_1": "🚗 Cars",
+  "consortium_service_vehicle_detail_2": "🏍️ Motorcycles",
+  "consortium_service_vehicle_detail_3": "🚚 Utility Vehicles",
+
+  "consortium_service_asset_image_alt": "Wealth Planning",
+  "consortium_service_asset_title": "Wealth Planning",
+  "consortium_service_asset_description": "Strategies for building wealth with security and predictability.",
+  "consortium_service_asset_detail_1": "📈 Strategy",
+  "consortium_service_asset_detail_2": "💰 Wealth Building",
+  "consortium_service_asset_detail_3": "🎯 Financial Goals",
+
+  "consortium_service_learn_more": "Learn More",
+
+  "consortium_benefits_title": "Why Choose a Consortium?",
+
+  "consortium_benefit_interest_title": "No Interest",
+  "consortium_benefit_interest_description": "Financial planning without financing interest charges.",
+
+  "consortium_benefit_installments_title": "Affordable Installments",
+  "consortium_benefit_installments_description": "Contributions tailored to your budget.",
+
+  "consortium_benefit_asset_title": "Wealth Building",
+  "consortium_benefit_asset_description": "Acquire assets with security and predictability.",
+
+  "consortium_stats_title": "Consortium: Secure Investment Planning",
+  "consortium_stat_approved": "Contemplated Credit Letters",
+  "consortium_stat_asset": "Planned Wealth",
+  "consortium_stat_satisfaction": "Customer Satisfaction",
+
+  "consortium_cta_title": "Plan Today the Wealth You Want to Build Tomorrow",
+  "consortium_cta_description": "Receive a personalized simulation and discover which option is ideal for your goals.",
+  "consortium_cta_button": "Request a Simulation",
+
+  "simulation_title": "Request a Simulation",
+  "simulation_label_name": "Name",
+  "simulation_label_email": "Email",
+  "simulation_label_phone": "WhatsApp",
+  "simulation_label_consortium": "Option",
+  "simulation_select_consortium": "Select an option",
+  "simulation_option_asset": "Wealth Planning",
+  "simulation_label_credit": "Approximate Credit Letter Amount",
+  "simulation_select_credit": "Select a range",
+  "simulation_label_message": "Tell Us About Your Goal",
+  "simulation_submit": "Request a Simulation",
+
+  "validation_name_required": "Please enter your name.",
+  "validation_name_min_length": "Your name must contain at least 3 characters.",
+  "validation_name_letters_only": "Your name must contain letters only.",
+
+  "validation_email_required": "Please enter your email.",
+  "validation_email_invalid": "Please enter a valid email address.",
+
+  "validation_phone_invalid": "Please enter a valid WhatsApp number with area code.",
+
+  "validation_message_required": "Please enter your message.",
+  "validation_message_min_length": "Your message must contain at least 10 characters.",
+
+  "validation_select_required": "Please select an option."
+}

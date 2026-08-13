@@ -1,0 +1,352 @@
+{
+  "menu_home": "LS Insight",
+  "menu_academy": "Academy",
+  "menu_accounting": "Consultoria Contábil",
+  "menu_consortium": "Consórcio",
+
+  "cookie_message": "Utilizamos cookies para melhorar sua experiência de navegação.",
+  "accept_cookies": "Aceitar",
+  "reject_cookies": "Recusar",
+  "privacy_policy": "Política de Privacidade",
+
+  "footer_description": "Soluções digitais sob medida para empresas.",
+  "footer_navigation": "Navegação",
+  "footer_location": "Localização",
+
+  "footer_home": "Home",
+  "footer_academy": "Academy",
+  "footer_accounting": "Consultoria Contábil",
+  "footer_consortium": "Consórcio",
+  "footer_privacy": "Política de Privacidade",
+
+  "hero_title_start": "Inteligência de Software para",
+  "hero_title_end": "negócios",
+
+  "hero_description": "Soluções digitais sob medida para empresas. Automação e estratégia.",
+
+  "hero_cta": "Peça um Diagnóstico",
+  "hero_secondary_cta": "Conheça Nossas Soluções",
+
+  "about_title": "Sobre a LS Insight",
+  "about_paragraph_1_before": "A",
+  "about_intro": "A",
+  "about_description_1": "atua na transformação digital de empresas por meio de consultoria tecnológica, desenvolvimento de sistemas e automação de processos.",
+  "about_paragraph_2": "Nosso objetivo é ajudar organizações a reduzirem custos, aumentarem a produtividade e tomarem decisões mais inteligentes através da tecnologia.",
+  "about_paragraph_3_before": "Desenvolvemos soluções sob medida, alinhadas às necessidades reais de cada negócio, sempre com foco em",
+  "about_efficiency": "eficiência",
+  "about_growth": "crescimento",
+  "about_and": "e",
+  "about_results": "resultados",
+
+  "services_title": "Nossas Soluções",
+
+  "service_development_title": "Desenvolvimento de Sistemas",
+  "service_development_description": "Sistemas web personalizados para otimizar processos e aumentar a eficiência operacional.",
+
+  "service_automation_title": "Automação de Processos",
+  "service_automation_description": "Elimine tarefas repetitivas e ganhe produtividade com automações inteligentes.",
+
+  "service_consulting_title": "Consultoria Tecnológica",
+  "service_consulting_description": "Diagnóstico e planejamento estratégico para acelerar a transformação digital.",
+
+  "service_business_title": "Inteligência de Negócios",
+  "service_business_description": "Dados e indicadores para apoiar decisões mais rápidas e assertivas.",
+
+  "business_units_title": "Áreas de Atuação",
+
+  "unit_main": "Consultoria tecnológica, desenvolvimento de sistemas, automação de processos e soluções digitais sob medida.",
+  "unit_academy": "Cursos, treinamentos e capacitação profissional voltados para tecnologia, produtividade e inovação.",
+  "unit_accounting": "Serviços para MEI, declaração de imposto de renda e suporte contábil para pessoas físicas e empresas.",
+  "unit_consortium": "Planejamento patrimonial e consórcios imobiliários para aquisição de bens sem juros.",
+
+  "differentials_title": "Diferenciais",
+
+  "differential_custom_title": "✓ Soluções Personalizadas",
+  "differential_custom_description": "Cada projeto é desenvolvido conforme a realidade do cliente.",
+
+  "differential_automation_title": "✓ Automação Inteligente",
+  "differential_automation_description": "Redução de tarefas manuais e aumento da produtividade.",
+
+  "differential_service_title": "✓ Atendimento Consultivo",
+  "differential_service_description": "Orientação estratégica para apoiar o crescimento do negócio.",
+
+  "differential_results_title": "✓ Foco em Resultados",
+  "differential_results_description": "Tecnologia aplicada com inteligência de mercado para gerar valor e eficiência.",
+
+  "cta_title": "Transforme sua empresa com tecnologia inteligente",
+  "cta_description": "Descubra oportunidades de automação, otimização de processos e desenvolvimento de soluções personalizadas para acelerar o crescimento do seu negócio.",
+  "cta_button": "Falar com um especialista agora",
+
+  "diagnostic_title": "Solicite um Diagnóstico",
+  "label_name": "Nome",
+  "label_company": "Empresa",
+  "label_email": "E-mail",
+  "label_phone": "WhatsApp",
+  "label_message": "Descreva sua necessidade",
+  "submit_diagnostic": "Solicitar Diagnóstico",
+
+  "contact_title": "Contato",
+  "contact_whatsapp": "WhatsApp:",
+  "contact_instagram": "Instagram:",
+
+  "privacy_title": "Política de Privacidade",
+  "privacy_subtitle": "Transparência, segurança e respeito aos seus dados pessoais.",
+
+  "privacy_intro": "A LS Insight valoriza a privacidade e a segurança das informações de seus usuários, clientes e visitantes. Esta Política de Privacidade apresenta, de forma transparente, como os dados pessoais podem ser tratados durante a utilização de nosso site e de nossos canais de atendimento.",
+
+  "privacy_section_1_title": "1. Sobre esta Política",
+  "privacy_section_1_text_1": "Esta Política de Privacidade tem como objetivo explicar como informações pessoais podem ser coletadas, utilizadas, armazenadas e protegidas durante a navegação no site da LS Insight.",
+  "privacy_section_1_text_2": "O tratamento de dados pessoais é realizado de acordo com a legislação aplicável, especialmente a Lei Geral de Proteção de Dados Pessoais (LGPD), Lei nº 13.709/2018.",
+
+  "privacy_section_2_title": "2. Dados pessoais que podem ser coletados",
+  "privacy_section_2_intro": "Dependendo da interação realizada no site, poderão ser solicitadas informações necessárias para atendimento, comunicação ou prestação de serviços.",
+  "privacy_section_2_item_1": "Nome;",
+  "privacy_section_2_item_2": "Endereço de e-mail;",
+  "privacy_section_2_item_3": "Número de telefone ou WhatsApp;",
+  "privacy_section_2_item_4": "Nome da empresa, quando aplicável;",
+  "privacy_section_2_item_5": "Informações fornecidas voluntariamente em formulários;",
+  "privacy_section_2_item_6": "Informações técnicas relacionadas à navegação.",
+
+  "privacy_section_3_title": "3. Como utilizamos os dados",
+  "privacy_section_3_intro": "As informações fornecidas poderão ser utilizadas, conforme a finalidade aplicável, para:",
+  "privacy_section_3_item_1": "Responder solicitações e mensagens;",
+  "privacy_section_3_item_2": "Entrar em contato com usuários interessados em nossos serviços;",
+  "privacy_section_3_item_3": "Realizar atendimentos e fornecer informações solicitadas;",
+  "privacy_section_3_item_4": "Melhorar a experiência de navegação no site;",
+  "privacy_section_3_item_5": "Garantir a segurança e o funcionamento adequado da plataforma.",
+
+  "privacy_section_4_title": "4. Cookies",
+  "privacy_section_4_text_1": "Nosso site pode utilizar cookies e tecnologias semelhantes para melhorar a experiência de navegação e armazenar determinadas preferências do usuário.",
+  "privacy_section_4_text_2": "O banner de cookies permite que o usuário registre sua preferência em relação à utilização dessas tecnologias. A escolha realizada é armazenada localmente no navegador para evitar que o aviso seja apresentado novamente durante a navegação.",
+  "privacy_section_4_text_3": "O usuário pode gerenciar ou excluir os dados armazenados pelo navegador por meio das configurações do próprio navegador.",
+
+  "privacy_section_5_title": "5. Segurança das informações",
+  "privacy_section_5_text_1": "A LS Insight busca adotar medidas técnicas e organizacionais adequadas para proteger os dados pessoais contra acessos não autorizados, perda, alteração, divulgação ou utilização indevida.",
+  "privacy_section_5_text_2": "Apesar das medidas de segurança adotadas, nenhum sistema conectado à internet pode ser considerado completamente imune a riscos.",
+
+  "privacy_section_6_title": "6. Compartilhamento de dados",
+  "privacy_section_6_text_1": "Os dados pessoais não devem ser compartilhados de forma indiscriminada. Quando necessário, o compartilhamento poderá ocorrer para atender finalidades legítimas, obrigações legais ou operações necessárias à prestação dos serviços.",
+  "privacy_section_6_text_2": "Sempre que aplicável, serão observadas as exigências previstas na legislação de proteção de dados pessoais.",
+
+  "privacy_section_7_title": "7. Direitos do titular",
+  "privacy_section_7_text_1": "A LGPD garante ao titular de dados pessoais diversos direitos relacionados ao tratamento de suas informações.",
+  "privacy_section_7_text_2": "Entre eles estão:",
+  "privacy_section_7_item_1": "Confirmação da existência de tratamento;",
+  "privacy_section_7_item_2": "Acesso aos dados pessoais;",
+  "privacy_section_7_item_3": "Correção de dados incompletos ou desatualizados;",
+  "privacy_section_7_item_4": "Solicitação de anonimização, bloqueio ou eliminação, quando aplicável;",
+  "privacy_section_7_item_5": "Informações sobre compartilhamento de dados;",
+  "privacy_section_7_item_6": "Portabilidade, observadas as regulamentações aplicáveis;",
+  "privacy_section_7_item_7": "Revogação do consentimento, quando essa for a base legal utilizada.",
+  "privacy_section_7_text_3": "Esses direitos estão previstos na LGPD e podem estar sujeitos às condições e exceções estabelecidas pela legislação.",
+
+  "privacy_section_8_title": "8. Princípios de proteção de dados",
+  "privacy_section_8_text_1": "O tratamento de dados pessoais deve observar princípios como finalidade, adequação, necessidade, transparência, segurança, prevenção e responsabilização.",
+  "privacy_section_8_text_2": "Dessa forma, buscamos utilizar somente as informações necessárias para as finalidades informadas e compatíveis com cada interação realizada pelo usuário.",
+
+  "privacy_section_9_title": "9. Atualizações desta Política",
+  "privacy_section_9_text_1": "Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações nos serviços, nas práticas de tratamento de dados ou na legislação aplicável.",
+  "privacy_section_9_text_2": "Recomendamos que o usuário consulte esta página periodicamente para acompanhar eventuais alterações.",
+
+  "privacy_section_10_title": "10. Contato",
+  "privacy_section_10_text": "Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de dados pessoais, entre em contato conosco.",
+
+  "privacy_last_update": "Última atualização: agosto de 2026",
+
+  "academy_title_start": "Capacitação que",
+  "academy_title_end": "carreiras",
+
+  "academy_hero_description": "Cursos e treinamentos voltados para tecnologia, automação, desenvolvimento de sistemas e crescimento profissional.",
+  "academy_hero_courses": "Conheça os Cursos",
+  "academy_hero_contact": "Solicitar Informações",
+
+  "academy_about_title": "Sobre a LS Insight Academy",
+  "academy_about_1_start": "A",
+  "academy_about_1_end": "nasceu para capacitar profissionais e empresas através de treinamentos práticos e conteúdos voltados ao mercado.",
+  "academy_about_2_start": "Nossos cursos unem",
+  "academy_about_2_highlight": "tecnologia, experiência profissional e aplicação real",
+  "academy_about_2_end": "para acelerar o desenvolvimento de carreiras e negócios.",
+  "academy_about_3_start": "Aprenda no seu ritmo e desenvolva habilidades que geram",
+  "academy_about_3_highlight": "resultados concretos.",
+
+  "academy_courses_title": "Cursos em Destaque",
+
+  "course_fullstack_title": "Dev. Full Stack",
+  "course_fullstack_description": "Aprenda frontend, backend e banco de dados com projetos práticos.",
+  "course_fullstack_duration": "📅 6 meses",
+
+  "course_powerbi_title": "Power BI e Dashboards",
+  "course_powerbi_description": "Transforme dados em informações estratégicas.",
+  "course_powerbi_duration": "📅 3 meses",
+
+  "course_git_title": "Git e GitHub",
+  "course_git_description": "Controle e versionamento profissional de código-fonte.",
+  "course_git_duration": "📅 2 meses",
+
+  "course_online": "💻 100% Online",
+  "course_material": "📄 Material PDF",
+  "course_learn_more": "Saiba Mais",
+
+  "academy_benefits_title": "Por que estudar conosco?",
+
+  "benefit_certificate": "Certificado",
+  "benefit_certificate_description": "Certificação ao concluir os treinamentos.",
+
+  "benefit_updated": "Conteúdo Atualizado",
+  "benefit_updated_description": "Materiais alinhados às tecnologias mais utilizadas pelo mercado.",
+
+  "benefit_practical": "Aulas Práticas",
+  "benefit_practical_description": "Aprendizado baseado em projetos e situações reais.",
+
+  "benefit_support": "Suporte Especializado",
+  "benefit_support_description": "Conte com orientação durante sua jornada de aprendizado.",
+
+  "academy_cta_title": "Invista no seu crescimento profissional",
+  "academy_cta_description": "Desenvolva habilidades valorizadas pelo mercado e acelere sua carreira.",
+  "academy_cta_button": "Quero Saber Mais",
+
+  "academy_contact_title": "Solicite Informações",
+  "academy_course_label": "Curso de Interesse",
+  "academy_contact_submit": "Solicitar Informações",
+
+  "accounting_hero_title_start": "Consultoria Contábil para",
+  "accounting_hero_title_end": "sua gestão financeira",
+  "accounting_hero_description": "Soluções contábeis, fiscais e tributárias para pessoas físicas e empresas.",
+  "accounting_hero_cta": "Conheça os Serviços",
+  "accounting_hero_secondary_cta": "Fale Conosco",
+
+  "accounting_about_title": "Sobre a LS Insight Consultoria Contábil",
+  "accounting_about_intro": "A",
+  "accounting_about_description_1": "oferece suporte especializado para pessoas físicas, MEIs e pequenas empresas.",
+  "accounting_about_paragraph_2_before": "Atuamos com foco em",
+  "accounting_about_focus": "organização financeira, conformidade fiscal e planejamento tributário",
+  "accounting_about_paragraph_3_before": "Nosso objetivo é simplificar processos, reduzir riscos e permitir que você foque no",
+  "accounting_about_growth": "crescimento do seu negócio.",
+
+  "accounting_services_title": "Nossos Serviços",
+
+  "accounting_service_dirpf_description": "Elaboração e entrega da Declaração do Imposto de Renda Pessoa Física.",
+  "accounting_service_dirpf_detail_1": "📄 Declaração Completa",
+  "accounting_service_dirpf_detail_2": "📊 Análise Patrimonial",
+  "accounting_service_dirpf_detail_3": "⚖️ Regularização Fiscal",
+
+  "accounting_service_mei_description": "Abertura, regularização e suporte completo ao Microempreendedor Individual.",
+  "accounting_service_mei_detail_1": "🏢 Abertura",
+  "accounting_service_mei_detail_2": "📑 DASN-SIMEI",
+  "accounting_service_mei_detail_3": "💰 Emissão de Guias",
+
+  "accounting_service_accounting_title": "Contabilidade",
+  "accounting_service_accounting_description": "Gestão contábil e suporte estratégico para empresas.",
+  "accounting_service_accounting_detail_1": "📈 Planejamento",
+  "accounting_service_accounting_detail_2": "📊 Relatórios",
+  "accounting_service_accounting_detail_3": "⚙️ Consultoria",
+
+  "accounting_service_learn_more": "Saiba Mais",
+
+  "accounting_benefits_title": "Por que escolher nossa consultoria?",
+
+  "accounting_benefit_security_title": "Segurança",
+  "accounting_benefit_security_description": "Processos realizados com responsabilidade e conformidade fiscal.",
+
+  "accounting_benefit_service_title": "Atendimento Personalizado",
+  "accounting_benefit_service_description": "Suporte próximo e orientado às necessidades do cliente.",
+
+  "accounting_benefit_planning_title": "Planejamento",
+  "accounting_benefit_planning_description": "Organização financeira para tomada de decisões.",
+
+  "accounting_benefit_agility_title": "Agilidade",
+  "accounting_benefit_agility_description": "Resolução rápida das demandas contábeis.",
+
+  "accounting_cta_title": "Organize sua vida financeira e tributária",
+  "accounting_cta_description": "Conte com orientação especializada para declaração de imposto de renda, regularização de MEI e suporte contábil para tomada de decisões.",
+  "accounting_cta_button": "Solicitar Atendimento",
+
+  "accounting_form_title": "Solicite uma Consultoria",
+  "accounting_label_name": "Nome",
+  "accounting_label_email": "E-mail",
+  "accounting_label_phone": "WhatsApp",
+  "accounting_label_service": "Serviço de Interesse",
+  "accounting_select_service": "Selecione um serviço",
+  "accounting_option_consulting": "Consultoria Contábil",
+  "accounting_label_message": "Mensagem",
+  "accounting_submit": "Solicitar Atendimento",
+
+  "consortium_hero_title_start": "Planejamento Inteligente para",
+  "consortium_hero_title_end": "patrimônio em conquistas",
+  "consortium_hero_description": "Consórcios planejados para aquisição de imóveis, veículos e formação de patrimônio.",
+  "consortium_hero_cta": "Solicitar Simulação",
+  "consortium_hero_secondary_cta": "Conheça as Modalidades",
+
+  "consortium_about_title": "Sobre a LS Insight Consórcio",
+  "consortium_about_intro": "A",
+  "consortium_about_description_1": "oferece soluções inteligentes para quem deseja conquistar bens e construir patrimônio de forma planejada.",
+  "consortium_about_paragraph_2_before": "Trabalhamos com modalidades voltadas para",
+  "consortium_about_focus": "imóveis, veículos e estratégias patrimoniais,",
+  "consortium_about_paragraph_2_after": "sempre buscando segurança e previsibilidade financeira.",
+  "consortium_about_paragraph_3_before": "Nosso objetivo é ajudar clientes a alcançarem seus projetos através de um",
+  "consortium_about_planning": "planejamento sustentável e eficiente.",
+
+  "consortium_services_title": "Modalidades de Consórcio",
+
+  "consortium_service_vehicle_image_alt": "Consórcio de Veículos",
+  "consortium_service_vehicle_title": "Consórcio de Veículos",
+  "consortium_service_vehicle_description": "Planejamento para aquisição de carros, motos e utilitários sem pagamento de juros.",
+  "consortium_service_vehicle_detail_1": "🚗 Carros",
+  "consortium_service_vehicle_detail_2": "🏍️ Motos",
+  "consortium_service_vehicle_detail_3": "🚚 Utilitários",
+
+  "consortium_service_asset_image_alt": "Planejamento Patrimonial",
+  "consortium_service_asset_title": "Planejamento Patrimonial",
+  "consortium_service_asset_description": "Estratégias para formação de patrimônio com segurança e previsibilidade.",
+  "consortium_service_asset_detail_1": "📈 Estratégia",
+  "consortium_service_asset_detail_2": "💰 Formação de Patrimônio",
+  "consortium_service_asset_detail_3": "🎯 Objetivos Financeiros",
+
+  "consortium_service_learn_more": "Saiba Mais",
+
+  "consortium_benefits_title": "Por que escolher um consórcio?",
+
+  "consortium_benefit_interest_title": "Sem Juros",
+  "consortium_benefit_interest_description": "Planejamento financeiro sem taxas de financiamento.",
+
+  "consortium_benefit_installments_title": "Parcelas Acessíveis",
+  "consortium_benefit_installments_description": "Contribuições adequadas ao orçamento.",
+
+  "consortium_benefit_asset_title": "Construção de Patrimônio",
+  "consortium_benefit_asset_description": "Conquiste bens com segurança e previsibilidade.",
+
+  "consortium_stats_title": "Consórcio: investimento com segurança",
+  "consortium_stat_approved": "Cartas contempladas",
+  "consortium_stat_asset": "Patrimônio planejado",
+  "consortium_stat_satisfaction": "Satisfação dos clientes",
+
+  "consortium_cta_title": "Planeje hoje o patrimônio que deseja conquistar amanhã",
+  "consortium_cta_description": "Receba uma simulação personalizada e descubra qual modalidade é ideal para seus objetivos.",
+  "consortium_cta_button": "Solicitar Simulação",
+
+  "simulation_title": "Solicite uma Simulação",
+  "simulation_label_name": "Nome",
+  "simulation_label_email": "E-mail",
+  "simulation_label_phone": "WhatsApp",
+  "simulation_label_consortium": "Modalidade",
+  "simulation_select_consortium": "Selecione uma modalidade",
+  "simulation_option_asset": "Planejamento Patrimonial",
+  "simulation_label_credit": "Valor aproximado da carta de crédito",
+  "simulation_select_credit": "Selecione uma faixa",
+  "simulation_label_message": "Conte-nos seu objetivo",
+  "simulation_submit": "Solicitar Simulação",
+
+  "validation_name_required": "Por favor, informe seu nome.",
+  "validation_name_min_length": "O nome deve possuir pelo menos 3 caracteres.",
+  "validation_name_letters_only": "O nome deve conter apenas letras.",
+
+  "validation_email_required": "Por favor, informe seu e-mail.",
+  "validation_email_invalid": "Informe um endereço de e-mail válido.",
+
+  "validation_phone_invalid": "Informe um WhatsApp válido com DDD.",
+
+  "validation_message_required": "Por favor, informe sua mensagem.",
+  "validation_message_min_length": "A mensagem deve possuir pelo menos 10 caracteres.",
+
+  "validation_select_required": "Selecione uma opção."
+}

@@ -1,0 +1,43 @@
+:root {
+  --color-primary: #0e4f6b;
+  --color-primary-dark: #08384c;
+
+  --color-secondary: #1fa37a;
+  --color-secondary-dark: #16805f;
+
+  --color-text: #2c2c2c;
+
+  --color-background: #f8f9fa;
+  --color-surface: #ffffff;
+  --color-border: #e9ecef;
+
+  --accounting-primary: #2c2c2c;
+  --accounting-secondary: #c9a227;
+  --accounting-light: #f5f5f5;
+
+  --consortium-primary: #5b3a29;
+  --consortium-primary-dark: #452b1f;
+
+  --consortium-secondary: #c58b39;
+  --consortium-secondary-dark: #a8742d;
+
+  --consortium-light: #f8f3ed;
+
+  --font-heading: "Montserrat", sans-serif;
+  --font-body: "Inter", sans-serif;
+
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 6rem;
+
+  --container-width: 1200px;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 8px 20px rgba(0, 0, 0, 0.1);
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+}
