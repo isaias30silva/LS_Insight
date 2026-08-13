@@ -341,5 +341,19 @@
   "simulation_label_credit": "Approximate Credit Letter Amount",
   "simulation_select_credit": "Select a range",
   "simulation_label_message": "Tell Us About Your Goal",
-  "simulation_submit": "Request a Simulation"
+  "simulation_submit": "Request a Simulation",
+
+  "validation_name_required": "Please enter your name.",
+  "validation_name_min_length": "Your name must contain at least 3 characters.",
+  "validation_name_letters_only": "Your name must contain letters only.",
+
+  "validation_email_required": "Please enter your email.",
+  "validation_email_invalid": "Please enter a valid email address.",
+
+  "validation_phone_invalid": "Please enter a valid WhatsApp number with area code.",
+
+  "validation_message_required": "Please enter your message.",
+  "validation_message_min_length": "Your message must contain at least 10 characters.",
+
+  "validation_select_required": "Please select an option."
 }

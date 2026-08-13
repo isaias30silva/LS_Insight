@@ -1,3 +1,5 @@
+let currentTranslations = {};
+
 function updateTypingWords(language) {
   document.querySelectorAll(".typing-word").forEach((element) => {
     const text =
@@ -19,6 +21,8 @@ async function loadLanguage(language) {
 
     const translations = await response.json();
 
+    currentTranslations = translations;
+
     document.querySelectorAll("[data-i18n]").forEach((element) => {
       const key = element.dataset.i18n;
 
@@ -35,6 +39,10 @@ async function loadLanguage(language) {
   } catch (error) {
     console.error("Erro ao carregar idioma:", error);
   }
+}
+
+function getTranslation(key) {
+  return currentTranslations[key] || key;
 }
 
 window.addEventListener("DOMContentLoaded", () => {

@@ -98,23 +98,22 @@ function setupFormValidation(form) {
   });
 }
 
-//NOME
+// NOME
 function validateName(input) {
   const value = input.value.trim();
 
   if (value === "") {
-    showFieldError(input, "Por favor, informe seu nome.");
+    showFieldError(input, getTranslation("validation_name_required"));
     return false;
   }
 
   if (value.length < 3) {
-    showFieldError(input, "O nome deve possuir pelo menos 3 caracteres.");
+    showFieldError(input, getTranslation("validation_name_min_length"));
     return false;
   }
 
   if (!/^[A-Za-zÀ-ÿ\s]+$/.test(value)) {
-    showFieldError(input, "O nome deve conter apenas letras.");
-
+    showFieldError(input, getTranslation("validation_name_letters_only"));
     return false;
   }
 
@@ -123,20 +122,19 @@ function validateName(input) {
   return true;
 }
 
-//E-MAIL
+// E-MAIL
 function validateEmail(input) {
   const value = input.value.trim();
 
   if (value === "") {
-    showFieldError(input, "Por favor, informe seu e-mail.");
+    showFieldError(input, getTranslation("validation_email_required"));
     return false;
   }
 
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
   if (!emailRegex.test(value)) {
-    showFieldError(input, "Informe um endereço de e-mail válido.");
-
+    showFieldError(input, getTranslation("validation_email_invalid"));
     return false;
   }
 
@@ -145,7 +143,7 @@ function validateEmail(input) {
   return true;
 }
 
-//TELEFONE / WHATSAPP
+// TELEFONE / WHATSAPP
 function applyPhoneMask(input) {
   let value = input.value.replace(/\D/g, "");
 
@@ -180,7 +178,7 @@ function validatePhone(input) {
   const numbersOnly = value.replace(/\D/g, "");
 
   if (numbersOnly.length !== 11) {
-    showFieldError(input, "Informe um WhatsApp válido com DDD.");
+    showFieldError(input, getTranslation("validation_phone_invalid"));
 
     return false;
   }
@@ -190,18 +188,18 @@ function validatePhone(input) {
   return true;
 }
 
-//MENSAGEM
+// MENSAGEM
 function validateMessage(input) {
   const value = input.value.trim();
 
   if (value === "") {
-    showFieldError(input, "Por favor, informe sua mensagem.");
+    showFieldError(input, getTranslation("validation_message_required"));
 
     return false;
   }
 
   if (value.length < 10) {
-    showFieldError(input, "A mensagem deve possuir pelo menos 10 caracteres.");
+    showFieldError(input, getTranslation("validation_message_min_length"));
 
     return false;
   }
@@ -211,10 +209,10 @@ function validateMessage(input) {
   return true;
 }
 
-//SELECT
+// SELECT
 function validateSelect(select) {
   if (select.value === "") {
-    showFieldError(select, "Selecione uma opção.");
+    showFieldError(select, getTranslation("validation_select_required"));
 
     return false;
   }
