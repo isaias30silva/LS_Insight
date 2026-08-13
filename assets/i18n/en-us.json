@@ -156,5 +156,63 @@
   "privacy_section_10_title": "10. Contact",
   "privacy_section_10_text": "If you have questions about this Privacy Policy or the processing of personal data, please contact us.",
 
-  "privacy_last_update": "Last updated: August 2026"
+  "privacy_last_update": "Last updated: August 2026",
+
+  "academy_title_start": "Training that",
+  "academy_title_end": "careers",
+
+  "academy_hero_description": "Courses and training focused on technology, automation, systems development, and professional growth.",
+  "academy_hero_courses": "Explore Our Courses",
+  "academy_hero_contact": "Request Information",
+
+  "academy_about_title": "About LS Insight Academy",
+  "academy_about_1_start": " ",
+  "academy_about_1_end": "was created to empower professionals and companies through practical training and market-oriented content.",
+
+  "academy_about_2_start": "Our courses combine",
+  "academy_about_2_highlight": "technology, professional experience, and real-world application",
+  "academy_about_2_end": "to accelerate career and business development.",
+
+  "academy_about_3_start": "Learn at your own pace and develop skills that generate",
+  "academy_about_3_highlight": "concrete results.",
+
+  "academy_courses_title": "Featured Courses",
+
+  "course_fullstack_title": "Full Stack Development",
+  "course_fullstack_description": "Learn frontend, backend, and databases through practical projects.",
+  "course_fullstack_duration": "📅 6 months",
+
+  "course_powerbi_title": "Power BI and Dashboards",
+  "course_powerbi_description": "Turn data into strategic and valuable information.",
+  "course_powerbi_duration": "📅 3 months",
+
+  "course_git_title": "Git and GitHub",
+  "course_git_description": "Professional source code control and versioning.",
+  "course_git_duration": "📅 2 months",
+
+  "course_online": "💻 100% Online",
+  "course_material": "📄 PDF Materials",
+  "course_learn_more": "Learn More",
+
+  "academy_benefits_title": "Why Study With Us?",
+
+  "benefit_certificate": "Certificate",
+  "benefit_certificate_description": "Certification upon completion of the training.",
+
+  "benefit_updated": "Updated Content",
+  "benefit_updated_description": "Materials aligned with the technologies most widely used in the market.",
+
+  "benefit_practical": "Practical Classes",
+  "benefit_practical_description": "Learning based on real-world projects and situations.",
+
+  "benefit_support": "Specialized Support",
+  "benefit_support_description": "Get guidance throughout your learning journey.",
+
+  "academy_cta_title": "Invest in Your Professional Growth",
+  "academy_cta_description": "Develop skills valued by the market and accelerate your career.",
+  "academy_cta_button": "Learn More",
+
+  "academy_contact_title": "Request Information",
+  "academy_course_label": "Course of Interest",
+  "academy_contact_submit": "Request Information"
 }

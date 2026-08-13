@@ -151,5 +151,61 @@
   "privacy_section_10_title": "10. Contato",
   "privacy_section_10_text": "Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de dados pessoais, entre em contato conosco.",
 
-  "privacy_last_update": "Última atualização: agosto de 2026"
+  "privacy_last_update": "Última atualização: agosto de 2026",
+
+  "academy_title_start": "Capacitação que",
+  "academy_title_end": "carreiras",
+
+  "academy_hero_description": "Cursos e treinamentos voltados para tecnologia, automação, desenvolvimento de sistemas e crescimento profissional.",
+  "academy_hero_courses": "Conheça os Cursos",
+  "academy_hero_contact": "Solicitar Informações",
+
+  "academy_about_title": "Sobre a LS Insight Academy",
+  "academy_about_1_start": "A",
+  "academy_about_1_end": "nasceu para capacitar profissionais e empresas através de treinamentos práticos e conteúdos voltados ao mercado.",
+  "academy_about_2_start": "Nossos cursos unem",
+  "academy_about_2_highlight": "tecnologia, experiência profissional e aplicação real",
+  "academy_about_2_end": "para acelerar o desenvolvimento de carreiras e negócios.",
+  "academy_about_3_start": "Aprenda no seu ritmo e desenvolva habilidades que geram",
+  "academy_about_3_highlight": "resultados concretos.",
+
+  "academy_courses_title": "Cursos em Destaque",
+
+  "course_fullstack_title": "Dev. Full Stack",
+  "course_fullstack_description": "Aprenda frontend, backend e banco de dados com projetos práticos.",
+  "course_fullstack_duration": "📅 6 meses",
+
+  "course_powerbi_title": "Power BI e Dashboards",
+  "course_powerbi_description": "Transforme dados em informações estratégicas.",
+  "course_powerbi_duration": "📅 3 meses",
+
+  "course_git_title": "Git e GitHub",
+  "course_git_description": "Controle e versionamento profissional de código-fonte.",
+  "course_git_duration": "📅 2 meses",
+
+  "course_online": "💻 100% Online",
+  "course_material": "📄 Material PDF",
+  "course_learn_more": "Saiba Mais",
+
+  "academy_benefits_title": "Por que estudar conosco?",
+
+  "benefit_certificate": "Certificado",
+  "benefit_certificate_description": "Certificação ao concluir os treinamentos.",
+
+  "benefit_updated": "Conteúdo Atualizado",
+  "benefit_updated_description": "Materiais alinhados às tecnologias mais utilizadas pelo mercado.",
+
+  "benefit_practical": "Aulas Práticas",
+  "benefit_practical_description": "Aprendizado baseado em projetos e situações reais.",
+
+  "benefit_support": "Suporte Especializado",
+  "benefit_support_description": "Conte com orientação durante sua jornada de aprendizado.",
+
+  "academy_cta_title": "Invista no seu crescimento profissional",
+  "academy_cta_description": "Desenvolva habilidades valorizadas pelo mercado e acelere sua carreira.",
+  "academy_cta_button": "Quero Saber Mais",
+
+  "academy_contact_title": "Solicite Informações",
+  "academy_course_label": "Curso de Interesse",
+  "academy_contact_submit": "Solicitar Informações"
 }
