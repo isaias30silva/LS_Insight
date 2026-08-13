@@ -92,5 +92,69 @@
 
   "contact_title": "Contact",
   "contact_whatsapp": "WhatsApp:",
-  "contact_instagram": "Instagram:"
+  "contact_instagram": "Instagram:",
+
+  "privacy_title": "Privacy Policy",
+  "privacy_subtitle": "Transparency, security, and respect for your personal data.",
+
+  "privacy_intro": "LS Insight values the privacy and security of information belonging to its users, clients, and visitors. This Privacy Policy transparently explains how personal data may be processed while using our website and our communication channels.",
+
+  "privacy_section_1_title": "1. About This Policy",
+  "privacy_section_1_text_1": "This Privacy Policy aims to explain how personal information may be collected, used, stored, and protected while browsing the LS Insight website.",
+  "privacy_section_1_text_2": "The processing of personal data is carried out in accordance with applicable legislation, especially the Brazilian General Data Protection Law (LGPD), Law No. 13,709/2018.",
+
+  "privacy_section_2_title": "2. Personal Data That May Be Collected",
+  "privacy_section_2_intro": "Depending on the interaction performed on the website, information necessary for customer service, communication, or service provision may be requested.",
+  "privacy_section_2_item_1": "Name;",
+  "privacy_section_2_item_2": "Email address;",
+  "privacy_section_2_item_3": "Phone number or WhatsApp;",
+  "privacy_section_2_item_4": "Company name, when applicable;",
+  "privacy_section_2_item_5": "Information voluntarily provided through forms;",
+  "privacy_section_2_item_6": "Technical information related to browsing.",
+
+  "privacy_section_3_title": "3. How We Use Data",
+  "privacy_section_3_intro": "The information provided may be used, according to the applicable purpose, to:",
+  "privacy_section_3_item_1": "Respond to requests and messages;",
+  "privacy_section_3_item_2": "Contact users interested in our services;",
+  "privacy_section_3_item_3": "Provide customer service and requested information;",
+  "privacy_section_3_item_4": "Improve the browsing experience on the website;",
+  "privacy_section_3_item_5": "Ensure the security and proper functioning of the platform.",
+
+  "privacy_section_4_title": "4. Cookies",
+  "privacy_section_4_text_1": "Our website may use cookies and similar technologies to improve the browsing experience and store certain user preferences.",
+  "privacy_section_4_text_2": "The cookie banner allows users to register their preference regarding the use of these technologies. The selected preference is stored locally in the browser to prevent the notice from being displayed again during browsing.",
+  "privacy_section_4_text_3": "Users can manage or delete data stored by the browser through the browser's own settings.",
+
+  "privacy_section_5_title": "5. Information Security",
+  "privacy_section_5_text_1": "LS Insight seeks to adopt appropriate technical and organizational measures to protect personal data against unauthorized access, loss, alteration, disclosure, or misuse.",
+  "privacy_section_5_text_2": "Despite the security measures adopted, no system connected to the internet can be considered completely immune to risks.",
+
+  "privacy_section_6_title": "6. Data Sharing",
+  "privacy_section_6_text_1": "Personal data should not be shared indiscriminately. When necessary, data may be shared to fulfill legitimate purposes, legal obligations, or operations required to provide services.",
+  "privacy_section_6_text_2": "Whenever applicable, the requirements established by personal data protection legislation will be observed.",
+
+  "privacy_section_7_title": "7. Data Subject Rights",
+  "privacy_section_7_text_1": "The LGPD grants personal data subjects several rights regarding the processing of their information.",
+  "privacy_section_7_text_2": "These rights include:",
+  "privacy_section_7_item_1": "Confirmation of the existence of data processing;",
+  "privacy_section_7_item_2": "Access to personal data;",
+  "privacy_section_7_item_3": "Correction of incomplete or outdated data;",
+  "privacy_section_7_item_4": "Request for anonymization, blocking, or deletion, when applicable;",
+  "privacy_section_7_item_5": "Information about data sharing;",
+  "privacy_section_7_item_6": "Data portability, subject to applicable regulations;",
+  "privacy_section_7_item_7": "Withdrawal of consent when consent is the applicable legal basis.",
+  "privacy_section_7_text_3": "These rights are provided for under the LGPD and may be subject to conditions and exceptions established by law.",
+
+  "privacy_section_8_title": "8. Data Protection Principles",
+  "privacy_section_8_text_1": "The processing of personal data must observe principles such as purpose, adequacy, necessity, transparency, security, prevention, and accountability.",
+  "privacy_section_8_text_2": "Therefore, we seek to use only the information necessary for the purposes communicated and compatible with each interaction performed by the user.",
+
+  "privacy_section_9_title": "9. Policy Updates",
+  "privacy_section_9_text_1": "This Privacy Policy may be periodically updated to reflect changes in services, data processing practices, or applicable legislation.",
+  "privacy_section_9_text_2": "We recommend that users periodically consult this page to keep up with any changes.",
+
+  "privacy_section_10_title": "10. Contact",
+  "privacy_section_10_text": "If you have questions about this Privacy Policy or the processing of personal data, please contact us.",
+
+  "privacy_last_update": "Last updated: August 2026"
 }
