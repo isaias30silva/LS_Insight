@@ -276,5 +276,70 @@
   "accounting_select_service": "Select a service",
   "accounting_option_consulting": "Accounting Consulting",
   "accounting_label_message": "Message",
-  "accounting_submit": "Request Assistance"
+  "accounting_submit": "Request Assistance",
+
+  "consortium_hero_title_start": "Smart Planning to Turn",
+  "consortium_hero_title_end": "assets into achievements",
+  "consortium_hero_description": "Planned consortium solutions for acquiring real estate, vehicles, and building wealth.",
+  "consortium_hero_cta": "Request a Simulation",
+  "consortium_hero_secondary_cta": "Explore Our Options",
+
+  "consortium_about_title": "About LS Insight Consortium",
+  "consortium_about_intro": " ",
+  "consortium_about_description_1": "offers smart solutions for those who want to acquire assets and build wealth through careful planning.",
+  "consortium_about_paragraph_2_before": "We offer options focused on",
+  "consortium_about_focus": "real estate, vehicles, and wealth strategies,",
+  "consortium_about_paragraph_2_after": "always seeking financial security and predictability.",
+  "consortium_about_paragraph_3_before": "Our goal is to help clients achieve their projects through",
+  "consortium_about_planning": "sustainable and efficient planning.",
+
+  "consortium_services_title": "Consortium Options",
+
+  "consortium_service_vehicle_image_alt": "Vehicle Consortium",
+  "consortium_service_vehicle_title": "Vehicle Consortium",
+  "consortium_service_vehicle_description": "Planning for the acquisition of cars, motorcycles, and utility vehicles without interest payments.",
+  "consortium_service_vehicle_detail_1": "🚗 Cars",
+  "consortium_service_vehicle_detail_2": "🏍️ Motorcycles",
+  "consortium_service_vehicle_detail_3": "🚚 Utility Vehicles",
+
+  "consortium_service_asset_image_alt": "Wealth Planning",
+  "consortium_service_asset_title": "Wealth Planning",
+  "consortium_service_asset_description": "Strategies for building wealth with security and predictability.",
+  "consortium_service_asset_detail_1": "📈 Strategy",
+  "consortium_service_asset_detail_2": "💰 Wealth Building",
+  "consortium_service_asset_detail_3": "🎯 Financial Goals",
+
+  "consortium_service_learn_more": "Learn More",
+
+  "consortium_benefits_title": "Why Choose a Consortium?",
+
+  "consortium_benefit_interest_title": "No Interest",
+  "consortium_benefit_interest_description": "Financial planning without financing interest charges.",
+
+  "consortium_benefit_installments_title": "Affordable Installments",
+  "consortium_benefit_installments_description": "Contributions tailored to your budget.",
+
+  "consortium_benefit_asset_title": "Wealth Building",
+  "consortium_benefit_asset_description": "Acquire assets with security and predictability.",
+
+  "consortium_stats_title": "Consortium: Secure Investment Planning",
+  "consortium_stat_approved": "Contemplated Credit Letters",
+  "consortium_stat_asset": "Planned Wealth",
+  "consortium_stat_satisfaction": "Customer Satisfaction",
+
+  "consortium_cta_title": "Plan Today the Wealth You Want to Build Tomorrow",
+  "consortium_cta_description": "Receive a personalized simulation and discover which option is ideal for your goals.",
+  "consortium_cta_button": "Request a Simulation",
+
+  "simulation_title": "Request a Simulation",
+  "simulation_label_name": "Name",
+  "simulation_label_email": "Email",
+  "simulation_label_phone": "WhatsApp",
+  "simulation_label_consortium": "Option",
+  "simulation_select_consortium": "Select an option",
+  "simulation_option_asset": "Wealth Planning",
+  "simulation_label_credit": "Approximate Credit Letter Amount",
+  "simulation_select_credit": "Select a range",
+  "simulation_label_message": "Tell Us About Your Goal",
+  "simulation_submit": "Request a Simulation"
 }
